@@ -1,5 +1,9 @@
+/* Import Tailwind and typography */
 @import "tailwindcss";
 @import "./typography.css";
+
+/* Import Geist from Google Fonts */
+@import url("https://fonts.googleapis.com/css2?family=Geist:wght@100..900&display=swap");
 
 @custom-variant dark (&:where([data-theme=dark], [data-theme=dark] *));
 
@@ -8,30 +12,40 @@
    =========================== */
 :root,
 html[data-theme="light"] {
-  --background: #ffffff;       /* white */
-  --foreground: #111111;       /* near black */
-  --muted: #e5e5e5;            /* light gray */
-  --border: #d1d1d1;           /* soft gray */
-  --selection: #f0f0f0;        /* very light grey selection */
-  --icon-offset: 0;             /* normal */
-  --accent: #111111;           /* black focus outlines */
-  --link-hover: #555555;        /* lighter gray for link hover */
-  --rss-color: #d4a017;        /* dark yellow for RSS */
+  --background: #ffffff;
+  --foreground: #111111;
+  --muted: #e5e5e5;
+  --border: #d1d1d1;
+  --selection: #f0f0f0;
+  --icon-offset: 0;
+  --accent: #111111;
+  --link-hover: #555555;
+  --rss-color: #d4a017;
+
+  /* Fonts */
+  --font-body: "Geist", ui-sans-serif, system-ui, sans-serif;
+  --font-heading: "Geist", ui-sans-serif, system-ui, sans-serif;
+  --font-mono: "SFMono-Regular", "Fira Code", "Menlo", monospace;
 }
 
 /* ===========================
    Dark Mode
    =========================== */
 html[data-theme="dark"] {
-  --background: #111111;       /* dark background */
-  --foreground: #f5f5f5;       /* light gray text */
-  --muted: #2a2a2a;            /* dark gray muted */
-  --border: #444444;           /* medium gray borders */
-  --selection: #333333;        /* subtle dark selection */
-  --icon-offset: 1px;           /* offset for dark mode */
-  --accent: #f5f5f5;           /* light gray focus outlines */
-  --link-hover: #dddddd;        /* lighter gray for link hover in dark mode */
-  --rss-color: #d4a017;        /* dark yellow for RSS */
+  --background: #111111;
+  --foreground: #f5f5f5;
+  --muted: #2a2a2a;
+  --border: #444444;
+  --selection: #333333;
+  --icon-offset: 1px;
+  --accent: #f5f5f5;
+  --link-hover: #dddddd;
+  --rss-color: #d4a017;
+
+  /* Fonts */
+  --font-body: "Geist", ui-sans-serif, system-ui, sans-serif;
+  --font-heading: "Geist", ui-sans-serif, system-ui, sans-serif;
+  --font-mono: "SFMono-Regular", "Fira Code", "Menlo", monospace;
 }
 
 /* ===========================
@@ -64,18 +78,31 @@ html[data-theme="dark"] {
   }
 
   body {
-    @apply flex min-h-svh flex-col font-sans;
+    @apply flex min-h-svh flex-col;
     background-color: var(--color-background);
     color: var(--color-foreground);
+    font-family: var(--font-body);
+    font-weight: 400;
+    font-optical-sizing: auto;
 
     /* Selection highlight */
     ::selection {
       background-color: var(--color-selection);
       color: var(--color-foreground);
     }
+
+    /* Font smoothing */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
   }
 
-  /* Links with hover effect */
+  h1, h2, h3, h4, h5, h6 {
+    font-family: var(--font-heading);
+    font-weight: 600;
+    font-optical-sizing: auto;
+  }
+
+  /* Links */
   a {
     color: var(--color-foreground);
     transition: color 0.2s ease-in-out;
@@ -106,16 +133,31 @@ html[data-theme="dark"] {
   /* Icon offset for dark mode */
   svg {
     transform: translateY(var(--color-icon-offset));
-    color: var(--color-foreground); /* all icons grayscale by default */
+    color: var(--color-foreground);
   }
 
-  /* RSS icon: dark yellow in all modes */
+  /* RSS icon */
   .rss-icon {
     color: var(--color-rss);
     transition: color 0.2s ease-in-out;
   }
   html[data-theme="dark"] .rss-icon {
     transform: translateY(var(--color-icon-offset));
+  }
+
+  /* ===========================
+     Monospace / Code
+     =========================== */
+  code, kbd, samp, pre {
+    font-family: var(--font-mono);
+    font-size: 0.95em;
+  }
+
+  pre {
+    background-color: var(--color-muted);
+    padding: 1rem;
+    border-radius: 0.5rem;
+    overflow-x: auto;
   }
 }
 
@@ -130,7 +172,7 @@ html[data-theme="dark"] {
   @apply underline decoration-wavy decoration-2 underline-offset-4;
 }
 
-/* Anchored scroll offset */
+/* Scroll anchor offset */
 :target {
   scroll-margin-block: 1rem;
 }
