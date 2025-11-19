@@ -12,9 +12,11 @@ html[data-theme="light"] {
   --foreground: #111111;       /* near black */
   --muted: #e5e5e5;            /* light gray */
   --border: #d1d1d1;           /* soft gray */
-  --selection: #e0f0e8;        /* light grey-green */
-  --icon-offset: 0;            /* normal */
-  --accent: #000000;           /* black focus outlines */
+  --selection: #f0f0f0;        /* very light grey selection */
+  --icon-offset: 0;             /* normal */
+  --accent: #111111;           /* black focus outlines */
+  --link-hover: #555555;        /* lighter gray for link hover */
+  --rss-color: #d4a017;        /* dark yellow for RSS */
 }
 
 /* ===========================
@@ -25,9 +27,11 @@ html[data-theme="dark"] {
   --foreground: #f5f5f5;       /* light gray text */
   --muted: #2a2a2a;            /* dark gray muted */
   --border: #444444;           /* medium gray borders */
-  --selection: #4a5a4f;        /* grey-green highlight */
+  --selection: #333333;        /* subtle dark selection */
   --icon-offset: 1px;           /* offset for dark mode */
-  --accent: #ffffff;           /* white focus outlines */
+  --accent: #f5f5f5;           /* light gray focus outlines */
+  --link-hover: #dddddd;        /* lighter gray for link hover in dark mode */
+  --rss-color: #d4a017;        /* dark yellow for RSS */
 }
 
 /* ===========================
@@ -41,6 +45,8 @@ html[data-theme="dark"] {
   --color-selection: var(--selection);
   --color-icon-offset: var(--icon-offset);
   --color-accent: var(--accent);
+  --color-link-hover: var(--link-hover);
+  --color-rss: var(--rss-color);
 }
 
 /* ===========================
@@ -75,10 +81,10 @@ html[data-theme="dark"] {
     transition: color 0.2s ease-in-out;
   }
   html[data-theme="light"] a:hover {
-    color: #333333; /* slightly darker */
+    color: var(--color-link-hover);
   }
   html[data-theme="dark"] a:hover {
-    color: #ffffff; /* slightly brighter */
+    color: var(--color-link-hover);
   }
 
   a,
@@ -100,11 +106,13 @@ html[data-theme="dark"] {
   /* Icon offset for dark mode */
   svg {
     transform: translateY(var(--color-icon-offset));
+    color: var(--color-foreground); /* all icons grayscale by default */
   }
 
-  /* RSS icon in dark yellow */
+  /* RSS icon: dark yellow in all modes */
   .rss-icon {
-    color: #d4a017; /* dark yellow */
+    color: var(--color-rss);
+    transition: color 0.2s ease-in-out;
   }
   html[data-theme="dark"] .rss-icon {
     transform: translateY(var(--color-icon-offset));
