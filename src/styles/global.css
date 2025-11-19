@@ -3,6 +3,10 @@
 
 @custom-variant dark (&:where([data-theme=dark], [data-theme=dark] *));
 
+/* ===========================
+   Color Variables
+   =========================== */
+
 /* Light Mode */
 :root,
 html[data-theme="light"] {
@@ -12,7 +16,7 @@ html[data-theme="light"] {
   --muted: #e5e5e5;            /* light gray for borders, muted elements */
   --border: #d1d1d1;           /* soft gray borders */
   --selection: #e0f0e8;        /* very light grey-green */
-  --icon-offset: 0;             /* normal icon position in light mode */
+  --icon-offset: 0;             /* normal icon position */
 }
 
 /* Dark Mode */
@@ -36,6 +40,9 @@ html[data-theme="dark"] {
   --color-icon-offset: var(--icon-offset);
 }
 
+/* ===========================
+   Base Styles
+   =========================== */
 @layer base {
   * {
     @apply border-border outline-accent/75;
@@ -57,6 +64,20 @@ html[data-theme="dark"] {
     }
   }
 
+  /* Links */
+  a {
+    color: var(--color-foreground);
+    transition: color 0.2s ease-in-out;
+  }
+
+  html[data-theme="light"] a:hover {
+    color: #333333; /* slightly darker on hover */
+  }
+
+  html[data-theme="dark"] a:hover {
+    color: #ffffff; /* slightly brighter on hover */
+  }
+
   a,
   button {
     @apply outline-offset-1 outline-accent focus-visible:no-underline focus-visible:outline-2 focus-visible:outline-dashed;
@@ -76,12 +97,25 @@ html[data-theme="dark"] {
   svg {
     transform: translateY(var(--color-icon-offset));
   }
+
+  /* RSS Icon */
+  .rss-icon {
+    color: #d4a017; /* dark yellow */
+  }
+
+  html[data-theme="dark"] .rss-icon {
+    transform: translateY(var(--color-icon-offset));
+  }
 }
 
+/* ===========================
+   Utilities
+   =========================== */
 @utility max-w-app {
   @apply max-w-3xl;
 }
 
+/* Navigation */
 .active-nav {
   @apply underline decoration-wavy decoration-2 underline-offset-4;
 }
