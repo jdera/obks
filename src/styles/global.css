@@ -8,18 +8,22 @@
 html[data-theme="light"] {
   --background: #ffffff;       /* white background */
   --foreground: #111111;       /* almost black text */
-  --accent: #000000;           /* black for links/buttons focus */
+  --accent: #000000;           /* black for focus outlines */
   --muted: #e5e5e5;            /* light gray for borders, muted elements */
   --border: #d1d1d1;           /* soft gray borders */
+  --selection: #e0f0e8;        /* very light grey-green */
+  --icon-offset: 0;             /* normal icon position in light mode */
 }
 
 /* Dark Mode */
 html[data-theme="dark"] {
   --background: #111111;       /* dark background */
   --foreground: #f5f5f5;       /* light gray text */
-  --accent: #ffffff;           /* white for links/buttons focus */
+  --accent: #ffffff;           /* white for focus outlines */
   --muted: #2a2a2a;            /* dark gray for borders, muted elements */
   --border: #444444;           /* medium gray borders */
+  --selection: #4a5a4f;        /* subtle gray-green highlight */
+  --icon-offset: 1px;           /* slight offset in dark mode for contrast */
 }
 
 @theme inline {
@@ -28,6 +32,8 @@ html[data-theme="dark"] {
   --color-accent: var(--accent);
   --color-muted: var(--muted);
   --color-border: var(--border);
+  --color-selection: var(--selection);
+  --color-icon-offset: var(--icon-offset);
 }
 
 @layer base {
@@ -42,7 +48,13 @@ html[data-theme="dark"] {
   }
 
   body {
-    @apply flex min-h-svh flex-col bg-background font-sans text-foreground selection:bg-muted selection:text-foreground;
+    @apply flex min-h-svh flex-col bg-background font-sans text-foreground;
+    
+    /* Selection highlight */
+    ::selection {
+      background-color: var(--color-selection);
+      color: var(--color-foreground);
+    }
   }
 
   a,
@@ -58,6 +70,11 @@ html[data-theme="dark"] {
   section,
   footer {
     @apply mx-auto max-w-app px-4;
+  }
+
+  /* Icon offset for better visibility in dark mode */
+  svg {
+    transform: translateY(var(--color-icon-offset));
   }
 }
 
