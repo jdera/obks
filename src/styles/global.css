@@ -3,21 +3,23 @@
 
 @custom-variant dark (&:where([data-theme=dark], [data-theme=dark] *));
 
+/* Light Mode */
 :root,
 html[data-theme="light"] {
-  --background: #fdfdfd;
-  --foreground: #282728;
-  --accent: #006cac;
-  --muted: #e6e6e6;
-  --border: #ece9e9;
+  --background: #ffffff;       /* white background */
+  --foreground: #111111;       /* almost black text */
+  --accent: #000000;           /* black for links/buttons focus */
+  --muted: #e5e5e5;            /* light gray for borders, muted elements */
+  --border: #d1d1d1;           /* soft gray borders */
 }
 
+/* Dark Mode */
 html[data-theme="dark"] {
-  --background: #212737;
-  --foreground: #eaedf3;
-  --accent: #ff6b01;
-  --muted: #343f60;
-  --border: #ab4b08;
+  --background: #111111;       /* dark background */
+  --foreground: #f5f5f5;       /* light gray text */
+  --accent: #ffffff;           /* white for links/buttons focus */
+  --muted: #2a2a2a;            /* dark gray for borders, muted elements */
+  --border: #444444;           /* medium gray borders */
 }
 
 @theme inline {
@@ -31,23 +33,28 @@ html[data-theme="dark"] {
 @layer base {
   * {
     @apply border-border outline-accent/75;
-    scrollbar-width: auto;
+    scrollbar-width: thin;
     scrollbar-color: var(--color-muted) transparent;
   }
+
   html {
     @apply overflow-y-scroll scroll-smooth;
   }
+
   body {
-    @apply flex min-h-svh flex-col bg-background font-mono text-foreground selection:bg-accent/75 selection:text-background;
+    @apply flex min-h-svh flex-col bg-background font-sans text-foreground selection:bg-muted selection:text-foreground;
   }
+
   a,
   button {
     @apply outline-offset-1 outline-accent focus-visible:no-underline focus-visible:outline-2 focus-visible:outline-dashed;
   }
+
   button:not(:disabled),
   [role="button"]:not(:disabled) {
     cursor: pointer;
   }
+
   section,
   footer {
     @apply mx-auto max-w-app px-4;
@@ -62,8 +69,7 @@ html[data-theme="dark"] {
   @apply underline decoration-wavy decoration-2 underline-offset-4;
 }
 
-/* Source: https://piccalil.li/blog/a-more-modern-css-reset/ */
-/* Anything that has been anchored to should have extra scroll margin */
+/* Anchored scroll offset */
 :target {
   scroll-margin-block: 1rem;
 }
