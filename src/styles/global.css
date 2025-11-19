@@ -4,44 +4,47 @@
 @custom-variant dark (&:where([data-theme=dark], [data-theme=dark] *));
 
 /* ===========================
-   Color Variables
+   Light Mode
    =========================== */
-
-/* Light Mode */
 :root,
 html[data-theme="light"] {
-  --background: #ffffff;       /* white background */
-  --foreground: #111111;       /* almost black text */
-  --accent: #000000;           /* black for focus outlines */
-  --muted: #e5e5e5;            /* light gray for borders, muted elements */
-  --border: #d1d1d1;           /* soft gray borders */
-  --selection: #e0f0e8;        /* very light grey-green */
-  --icon-offset: 0;             /* normal icon position */
+  --background: #ffffff;       /* white */
+  --foreground: #111111;       /* near black */
+  --muted: #e5e5e5;            /* light gray */
+  --border: #d1d1d1;           /* soft gray */
+  --selection: #e0f0e8;        /* light grey-green */
+  --icon-offset: 0;            /* normal */
+  --accent: #000000;           /* black focus outlines */
 }
 
-/* Dark Mode */
+/* ===========================
+   Dark Mode
+   =========================== */
 html[data-theme="dark"] {
   --background: #111111;       /* dark background */
   --foreground: #f5f5f5;       /* light gray text */
-  --accent: #ffffff;           /* white for focus outlines */
-  --muted: #2a2a2a;            /* dark gray for borders, muted elements */
+  --muted: #2a2a2a;            /* dark gray muted */
   --border: #444444;           /* medium gray borders */
-  --selection: #4a5a4f;        /* subtle gray-green highlight */
-  --icon-offset: 1px;           /* slight offset in dark mode for contrast */
+  --selection: #4a5a4f;        /* grey-green highlight */
+  --icon-offset: 1px;           /* offset for dark mode */
+  --accent: #ffffff;           /* white focus outlines */
 }
 
+/* ===========================
+   Theme inline
+   =========================== */
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
-  --color-accent: var(--accent);
   --color-muted: var(--muted);
   --color-border: var(--border);
   --color-selection: var(--selection);
   --color-icon-offset: var(--icon-offset);
+  --color-accent: var(--accent);
 }
 
 /* ===========================
-   Base Styles
+   Base styles
    =========================== */
 @layer base {
   * {
@@ -55,8 +58,10 @@ html[data-theme="dark"] {
   }
 
   body {
-    @apply flex min-h-svh flex-col bg-background font-sans text-foreground;
-    
+    @apply flex min-h-svh flex-col font-sans;
+    background-color: var(--color-background);
+    color: var(--color-foreground);
+
     /* Selection highlight */
     ::selection {
       background-color: var(--color-selection);
@@ -64,23 +69,22 @@ html[data-theme="dark"] {
     }
   }
 
-  /* Links */
+  /* Links with hover effect */
   a {
     color: var(--color-foreground);
     transition: color 0.2s ease-in-out;
   }
-
   html[data-theme="light"] a:hover {
-    color: #333333; /* slightly darker on hover */
+    color: #333333; /* slightly darker */
   }
-
   html[data-theme="dark"] a:hover {
-    color: #ffffff; /* slightly brighter on hover */
+    color: #ffffff; /* slightly brighter */
   }
 
   a,
   button {
-    @apply outline-offset-1 outline-accent focus-visible:no-underline focus-visible:outline-2 focus-visible:outline-dashed;
+    @apply outline-offset-1 focus-visible:no-underline focus-visible:outline-2 focus-visible:outline-dashed;
+    outline-color: var(--color-accent);
   }
 
   button:not(:disabled),
@@ -93,16 +97,15 @@ html[data-theme="dark"] {
     @apply mx-auto max-w-app px-4;
   }
 
-  /* Icon offset for better visibility in dark mode */
+  /* Icon offset for dark mode */
   svg {
     transform: translateY(var(--color-icon-offset));
   }
 
-  /* RSS Icon */
+  /* RSS icon in dark yellow */
   .rss-icon {
     color: #d4a017; /* dark yellow */
   }
-
   html[data-theme="dark"] .rss-icon {
     transform: translateY(var(--color-icon-offset));
   }
@@ -115,7 +118,6 @@ html[data-theme="dark"] {
   @apply max-w-3xl;
 }
 
-/* Navigation */
 .active-nav {
   @apply underline decoration-wavy decoration-2 underline-offset-4;
 }
