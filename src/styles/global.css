@@ -3,7 +3,8 @@
 @import "./typography.css";
 
 /* Import Geist from Google Fonts */
-@import url("https://fonts.googleapis.com/css2?family=Noto+Sans:wght@100..900&family=Noto+Sans+Mono:wght@100..900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Geist:wght@100..900&display=swap");
+
 @custom-variant dark (&:where([data-theme=dark], [data-theme=dark] *));
 
 /* ===========================
@@ -18,9 +19,10 @@ html[data-theme="light"] {
   --border: #ece9e9;
 
   /* Fonts */
---font-body: "Noto Sans", ui-sans-serif, system-ui, sans-serif;
---font-heading: "Noto Sans", ui-sans-serif, system-ui, sans-serif;
-  --font-mono: "Noto Sans Mono", "Fira Code", "Menlo", monospace;}
+  --font-body: "Geist", ui-sans-serif, system-ui, sans-serif;
+  --font-heading: "Geist", ui-sans-serif, system-ui, sans-serif;
+  --font-mono: "SFMono-Regular", "Fira Code", "Menlo", monospace;
+}
 
 /* ===========================
    Dark Mode
