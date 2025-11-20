@@ -7,7 +7,7 @@ import IconWhatsapp from "@/assets/icons/IconWhatsapp.svg";
 import IconFacebook from "@/assets/icons/IconFacebook.svg";
 import IconTelegram from "@/assets/icons/IconTelegram.svg";
 import IconPinterest from "@/assets/icons/IconPinterest.svg";
-import IconRSS from "@/assets/icons/IconRSS.svg";https://github.com/jdera/obks/blob/main/src/constants.ts
+import IconRss from "@/assets/icons/IconRSS.svg";https://github.com/jdera/obks/blob/main/src/constants.ts
 import { SITE } from "@/config";
 
 interface Social {
