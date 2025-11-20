@@ -12,13 +12,11 @@
    ========================== */
 :root,
 html[data-theme="light"] {
-  --background: #ffffff;
-  --foreground: #111111;
-  --muted: #e5e5e5;
-  --border: #d1d1d1;
-  --selection: #4a4c4e;
-  --icon-offset: 0;
-  --accent: #3f8bd7;
+  --background: #fdfdfd;
+  --foreground: #282728;
+  --accent: #006cac;
+  --muted: #e6e6e6;
+  --border: #ece9e9;
 
   /* Fonts */
   --font-body: "Geist", ui-sans-serif, system-ui, sans-serif;
@@ -30,13 +28,13 @@ html[data-theme="light"] {
    Dark Mode
    ========================== */
 html[data-theme="dark"] {
-  --background: #111111;
+  --background: #171717;
   --foreground: #f5f5f5;
-  --muted: #2a2a2a;
+  --accent: #7c7f82;
+  --muted: #4a4c4e;
   --border: #4a4c4e;
-  --selection: #646f80;
   --icon-offset: 1px;
-  --accent: #3f8bd7;
+
 }
 
 /* ===========================
