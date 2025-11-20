@@ -181,7 +181,7 @@ function initializeThemeToggles() {
   const mobileThemeBtn = document.querySelector("#theme-btn");
   const desktopThemeBtn = document.querySelector("#theme-btn-desktop");
 
-  const themeToggleHandler = (event) => {
+  const themeToggleHandler = (event: MouseEvent) => {
     const target = event.currentTarget;
     if (!(target instanceof HTMLElement)) return;
 
