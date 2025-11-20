@@ -2,10 +2,8 @@
 @import "tailwindcss";
 @import "./typography.css";
 
-/* NOTE: I commented out Geist. 
-   If you are using Segoe UI, you don't need to load Geist from Google. 
-*/
-/* @import url("https://fonts.googleapis.com/css2?family=Geist:wght@100..900&display=swap"); */
+/* Import Geist from Google Fonts */
+@import url("https://fonts.googleapis.com/css2?family=Geist:wght@100..900&display=swap");
 
 @custom-variant dark (&:where([data-theme=dark], [data-theme=dark] *));
 
@@ -20,11 +18,9 @@ html[data-theme="light"] {
   --muted: #e6e6e6;
   --border: #ece9e9;
 
-  /* You can update these variables to match your overrides if you want consistency,
-     but your hardcoded rule below will take precedence anyway.
-  */
-  --font-body: 'Segoe UI', ui-sans-serif, system-ui, -apple-system, sans-serif;
-  --font-heading: 'Segoe UI', ui-sans-serif, system-ui, -apple-system, sans-serif;
+  /* Fonts - kept as you had them to prevent breaking other references */
+  --font-body: "Geist", ui-sans-serif, system-ui, sans-serif;
+  --font-heading: "Geist", ui-sans-serif, system-ui, sans-serif;
   --font-mono: "SFMono-Regular", "Fira Code", "Menlo", monospace;
 }
 
@@ -49,30 +45,35 @@ html[data-theme="dark"] {
 }
 
 @layer base {
-  /* 1. General Star Selector */
   * {
     @apply border-border outline-accent/75;
     scrollbar-width: auto;
-    /* Use var(--muted) directly here, not var(--color-muted) */
-    scrollbar-color: var(--muted) transparent; 
+    scrollbar-color: var(--color-muted) transparent;
   }
 
-  /* 2. HTML & Body Override (Moved out of nested layer) */
+  /* FIXED: Moved this outside of the previous nesting and added Segoe UI */
   html, body {
     font-family: 'Segoe UI', ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif;
   }
 
-  /* 3. Links and Buttons */
+  /* HTML Scroller */
+  html {
+     @apply overflow-y-scroll scroll-smooth;
+  }
+
+  /* BODY: Removed 'font-mono' so it uses the Segoe UI rule above */
+  body {
+    @apply flex min-h-svh flex-col bg-background text-foreground selection:bg-accent/75 selection:text-background;
+  }
+
   a,
   button {
     @apply outline-offset-1 outline-accent focus-visible:no-underline focus-visible:outline-2 focus-visible:outline-dashed;
   }
-
   button:not(:disabled),
   [role="button"]:not(:disabled) {
     cursor: pointer;
   }
-
   section,
   footer {
     @apply mx-auto max-w-app px-4;
@@ -88,6 +89,7 @@ html[data-theme="dark"] {
 }
 
 /* Source: https://piccalil.li/blog/a-more-modern-css-reset/ */
+/* Anything that has been anchored to should have extra scroll margin */
 :target {
   scroll-margin-block: 1rem;
 }
