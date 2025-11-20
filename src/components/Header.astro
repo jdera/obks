@@ -178,16 +178,19 @@ function toggleNav() {
 }
 
 function initializeThemeToggles() {
-  const mobileThemeBtn = document.querySelector("#theme-btn");
-  const desktopThemeBtn = document.querySelector("#theme-btn-desktop");
+  const mobileThemeBtn = document.querySelector("#theme-btn") as HTMLElement | null;
+  const desktopThemeBtn = document.querySelector("#theme-btn-desktop") as HTMLElement | null;
 
   const themeToggleHandler = (event: MouseEvent) => {
-    const target = event.currentTarget;
-    if (!(target instanceof HTMLElement)) return;
+    // Toggle dark mode on document root
+    document.documentElement.classList.toggle("dark");
 
-    const html = document.documentElement;
-    const isDark = html.dataset.theme === "dark";
-    html.dataset.theme = isDark ? "light" : "dark";
+    // Optional: store preference in localStorage
+    if (document.documentElement.classList.contains("dark")) {
+      localStorage.setItem("theme", "dark");
+    } else {
+      localStorage.setItem("theme", "light");
+    }
   };
 
   if (mobileThemeBtn) {
