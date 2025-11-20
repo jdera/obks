@@ -18,7 +18,7 @@ html[data-theme="light"] {
   --border: #d1d1d1;
   --selection: #f0f0f0;
   --icon-offset: 0;
-  --accent: #405056;
+  --accent: #6e7f9b;
 
   /* Fonts */
   --font-body: "Geist", ui-sans-serif, system-ui, sans-serif;
@@ -36,7 +36,7 @@ html[data-theme="dark"] {
   --border: #444444;
   --selection: #333333;
   --icon-offset: 1px;
-  --accent: #90a0b9;
+  --accent: #6e7f9b;
 }
 
 /* ===========================
