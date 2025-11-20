@@ -2,14 +2,12 @@
 @import "tailwindcss";
 @import "./typography.css";
 
-/* Import Geist from Google Fonts */
-@import url("https://fonts.googleapis.com/css2?family=Geist:wght@100..900&display=swap");
+/* NOTE: I commented out Geist. 
+   If you are using Segoe UI, you don't need to load Geist from Google. 
+*/
+/* @import url("https://fonts.googleapis.com/css2?family=Geist:wght@100..900&display=swap"); */
 
 @custom-variant dark (&:where([data-theme=dark], [data-theme=dark] *));
-
-@theme {
-  --font-sans: 'Segoe UI', ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-}
 
 /* ===========================
    Light Mode
@@ -22,9 +20,11 @@ html[data-theme="light"] {
   --muted: #e6e6e6;
   --border: #ece9e9;
 
-  /* Fonts */
-  --font-body: "Geist", ui-sans-serif, system-ui, sans-serif;
-  --font-heading: "Geist", ui-sans-serif, system-ui, sans-serif;
+  /* You can update these variables to match your overrides if you want consistency,
+     but your hardcoded rule below will take precedence anyway.
+  */
+  --font-body: 'Segoe UI', ui-sans-serif, system-ui, -apple-system, sans-serif;
+  --font-heading: 'Segoe UI', ui-sans-serif, system-ui, -apple-system, sans-serif;
   --font-mono: "SFMono-Regular", "Fira Code", "Menlo", monospace;
 }
 
@@ -38,7 +38,6 @@ html[data-theme="dark"] {
   --muted: #4a4c4e;
   --border: #4a4c4e;
   --icon-offset: 1px;
-
 }
 
 @theme inline {
@@ -50,25 +49,30 @@ html[data-theme="dark"] {
 }
 
 @layer base {
+  /* 1. General Star Selector */
   * {
     @apply border-border outline-accent/75;
     scrollbar-width: auto;
-    scrollbar-color: var(--color-muted) transparent;
+    /* Use var(--muted) directly here, not var(--color-muted) */
+    scrollbar-color: var(--muted) transparent; 
   }
-  html {
-    @apply overflow-y-scroll scroll-smooth;
+
+  /* 2. HTML & Body Override (Moved out of nested layer) */
+  html, body {
+    font-family: 'Segoe UI', ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif;
   }
-body {
-  @apply flex min-h-svh flex-col bg-background **font-sans** text-foreground selection:bg-accent/75 selection:text-background;
-}
+
+  /* 3. Links and Buttons */
   a,
   button {
     @apply outline-offset-1 outline-accent focus-visible:no-underline focus-visible:outline-2 focus-visible:outline-dashed;
   }
+
   button:not(:disabled),
   [role="button"]:not(:disabled) {
     cursor: pointer;
   }
+
   section,
   footer {
     @apply mx-auto max-w-app px-4;
@@ -84,7 +88,6 @@ body {
 }
 
 /* Source: https://piccalil.li/blog/a-more-modern-css-reset/ */
-/* Anything that has been anchored to should have extra scroll margin */
 :target {
   scroll-margin-block: 1rem;
 }
