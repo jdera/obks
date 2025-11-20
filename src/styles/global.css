@@ -37,87 +37,40 @@ html[data-theme="dark"] {
 
 }
 
-/* ===========================
-   Theme inline
-   ========================== */
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
+  --color-accent: var(--accent);
   --color-muted: var(--muted);
   --color-border: var(--border);
-  --color-selection: var(--selection);
-  --color-icon-offset: var(--icon-offset);
-  --color-accent: var(--accent);
-  --color-link-hover: var(--link-hover);
-  --color-rss: var(--rss-color);
 }
 
-/* ===========================
-   Base styles
-   ========================== */
 @layer base {
+  * {
+    @apply border-border outline-accent/75;
+    scrollbar-width: auto;
+    scrollbar-color: var(--color-muted) transparent;
+  }
   html {
     @apply overflow-y-scroll scroll-smooth;
   }
-
   body {
-    @apply flex min-h-svh flex-col font-sans;
-    background-color: var(--color-background);
-    color: var(--color-foreground);
-
-    ::selection {
-      background-color: var(--color-selection);
-      color: var(--color-foreground);
-    }
+    @apply flex min-h-svh flex-col bg-background font-mono text-foreground selection:bg-accent/75 selection:text-background;
   }
-
-  /* Links */
-  a {
-    color: var(--color-foreground);
-    transition: color 0.2s ease-in-out;
-  }
-
-  html[data-theme="light"] a:hover,
-  html[data-theme="dark"] a:hover {
-    color: var(--color-link-hover);
-  }
-
   a,
   button {
-    @apply outline-offset-1 focus-visible:no-underline focus-visible:outline-2 focus-visible:outline-dashed;
-    outline-color: var(--color-accent);
+    @apply outline-offset-1 outline-accent focus-visible:no-underline focus-visible:outline-2 focus-visible:outline-dashed;
   }
-
   button:not(:disabled),
   [role="button"]:not(:disabled) {
     cursor: pointer;
   }
-
   section,
   footer {
     @apply mx-auto max-w-app px-4;
   }
-
-  /* Icon offset */
-  svg {
-    transform: translateY(var(--color-icon-offset));
-    color: var(--color-foreground);
-  }
-
-  /* RSS icon */
-  .rss-icon {
-    color: var(--color-rss);
-    transition: color 0.2s ease-in-out;
-  }
-
-  html[data-theme="dark"] .rss-icon {
-    transform: translateY(var(--color-icon-offset));
-  }
 }
 
-/* ===========================
-   Utilities
-   ========================== */
 @utility max-w-app {
   @apply max-w-3xl;
 }
@@ -126,6 +79,8 @@ html[data-theme="dark"] {
   @apply underline decoration-wavy decoration-2 underline-offset-4;
 }
 
+/* Source: https://piccalil.li/blog/a-more-modern-css-reset/ */
+/* Anything that has been anchored to should have extra scroll margin */
 :target {
   scroll-margin-block: 1rem;
 }
