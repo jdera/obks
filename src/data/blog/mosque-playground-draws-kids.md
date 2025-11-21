@@ -1,4 +1,3 @@
----
 author: Daily Sabah (IHA)
 pubDatetime: 2019-07-22T00:00:00Z
 modDatetime: 2019-07-22T00:00:00Z
@@ -12,7 +11,6 @@ tags:
   - Community
 description: An imam in Kocaeli (Turkey) transforms his mosque's courtyard with a playground to attract children to summer Quran classes.
 canonicalURL: https://www.dailysabah.com/turkey/2019/07/18/play-and-pray-mosques-playground-draws-kids
----
 
 # Play and pray: Mosque's playground draws kids
 
@@ -21,8 +19,6 @@ canonicalURL: https://www.dailysabah.com/turkey/2019/07/18/play-and-pray-mosques
 ![A young boy holding a Quran in front of a mosque.](@/assets/images/kids1.png)
 
 Frustrated by the small number of children attending his summer Quran reading classes, an imam in Kocaeli's Başiskele district took measures into his own hands. After making the mosque more kid-friendly with a new playground, the cleric is now overwhelmed with the number of kids. Kadir Çelikiz, who serves as the imam of Merkez Mosque in the northwestern city, is a beloved figure among children after his work to turn their time at the mosque into a fun experience.
-
----
 
 ## Attracting kids with play
 
@@ -33,8 +29,6 @@ Frustrated by the small number of children attending his summer Quran reading cl
 ![A long line of children waiting](@/assets/images/kids3.png)
 
 Every Monday, after classes end, children are invited to watch theater plays that teach moral values or spend hours inside the inflatable playground. Çelikiz also organizes traditional child games for young visitors, from tug of war to sack races.
-
----
 
 ## Empathy and engagement
 
@@ -55,7 +49,5 @@ The imam's efforts paid off as he recalls an encounter with three children last 
 Elif Hasanatu, a young Syrian girl who is among Çelikiz's students, said she was happy to "have fun and learn Quran at the same time." Hasanatu, an illiterate girl, says the classes also had extra benefit for her to learn Arabic.
 
 > "We have very good teachers here. You only need to finish the class to go out and play," she said.
-
----
 
 **Source:** [Daily Sabah](https://www.dailysabah.com/turkey/2019/07/18/play-and-pray-mosques-playground-draws-kids)
