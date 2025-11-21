@@ -38,4 +38,4 @@ With a growing interest in natural things, Chester is hopeful that more farmers 
 
 For all of the black sheep out there, there is hope. Today, the wool from black sheep is in great demand from the fashion industry.
 
-**Source:** [FarmProgress](https://www.farmprogress.com/livestock/black-sheep-are-more-valuable-you-think)
+**Source:** <a href="https://www.farmprogress.com/livestock/black-sheep-are-more-valuable-you-think" target="_blank">FarmProgress</a>
