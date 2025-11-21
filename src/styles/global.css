@@ -30,7 +30,7 @@ html[data-theme="light"] {
 html[data-theme="dark"] {
   --background: #161617;
   --foreground: #f5f5f5;
-  --accent: #50E3C2;
+  --accent: #51a9ed;
   --muted: #4a4c4e;
   --border: #4a4c4e;
   --icon-offset: 1px;
