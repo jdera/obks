@@ -1,7 +1,7 @@
 ---
 author: Daily Sabah (IHA)
 pubDatetime: 2019-07-22T00:00:00Z
-modDatetime: 2019-07-22T00:00:00Z
+modDatetime: 2025-11-21T00:00:00Z
 title: "Play and pray: Mosque's playground draws kids"
 slug: mosque-playground-draws-kids
 featured: false
@@ -34,20 +34,20 @@ Every Monday, after classes end, children are invited to watch theater plays tha
 
 According to Çelikiz, his desire to make the mosque a more favorable place for children stemmed from his own childhood:
 
-> "I used to play around at the mosque, while the adults were praying when I was a child, and they'd always chide me. This used to worry me a lot. I wanted to end this mindset and make children more attached to the mosque."
+> I used to play around at the mosque, while the adults were praying when I was a child, and they'd always chide me. This used to worry me a lot. I wanted to end this mindset and make children more attached to the mosque.
 
 Worshipers tend to admonish children accompanying their parents to mosques at the slightest noise they make, and the Presidency of Religious Affairs (DİB) has recently started a campaign to call on the public for a better approach to children visiting mosques.
 
 ![cotton candy](@/assets/images/kids4.png)
 
-> "You have to empathize with children and remember how you were treated when you were a child and went to a mosque," Çelikiz said.
+> 'You have to empathize with children and remember how you were treated when you were a child and went to a mosque,' Çelikiz said.
 
 The imam's efforts paid off as he recalls an encounter with three children last week:
 
-> "They were my students at summer school but were absent for a few days. I asked them why they did not come, and they told me that their parents did not want them to come to the mosque because it was far from their home, but they insisted and came anyway."
+> They were my students at summer school but were absent for a few days. I asked them why they did not come, and they told me that their parents did not want them to come to the mosque because it was far from their home, but they insisted and came anyway.
 
 Elif Hasanatu, a young Syrian girl who is among Çelikiz's students, said she was happy to "have fun and learn Quran at the same time." Hasanatu, an illiterate girl, says the classes also had extra benefit for her to learn Arabic.
 
-> "We have very good teachers here. You only need to finish the class to go out and play," she said.
+> 'We have very good teachers here. You only need to finish the class to go out and play,' she said.
 
 **Source:** [Daily Sabah](https://www.dailysabah.com/turkey/2019/07/18/play-and-pray-mosques-playground-draws-kids)
