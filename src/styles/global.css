@@ -117,8 +117,8 @@ html[data-theme="dark"] {
     =========================== */
 .rss-viewer-pill {
     /* 1. Color Inversion: Background becomes Foreground (Text), and vice versa */
-    background-color: var(--foreground);
-    color: var(--background);
+    background-color: var(--background);
+    color: var(--foreground);
 
     /* 2. Style Adjustments */
     padding: 0.1rem 0.4rem; 
