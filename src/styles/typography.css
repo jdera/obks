@@ -96,6 +96,12 @@
     @apply flex border bg-(--shiki-light-bg) text-(--shiki-light) outline-border [&_span]:text-(--shiki-light);
   }
 
+  blockquote::before,
+  blockquote::after {
+      content: none; 
+      display: none;
+  }
+
   html[data-theme="dark"] .astro-code {
     @apply bg-(--shiki-dark-bg) text-(--shiki-dark) [&_span]:text-(--shiki-dark);
   }
