@@ -10,11 +10,11 @@ tags:
   - livestock
   - sheep
   - encouragement
-description: The story of black sheep, and their value.
+description: The story of black sheep, their wool demand, and the value they bring to farmers and families.
 canonicalURL: https://www.farmprogress.com/livestock/black-sheep-are-more-valuable-you-think
 ---
 
-![AstroPaper v4](@/assets/images/sheep.png)
+![black sheep](@/assets/images/sheep.png)
 
 Virginia shepherd Francis Chester and his 22-year-old black sheep, Blackie, explains why black sheep have value today.
 
