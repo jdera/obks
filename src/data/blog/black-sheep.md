@@ -24,9 +24,9 @@ For all of the black sheep out there, there is hope. Today, the wool from black 
 
 > “We got the term black sheep of the family because for hundreds of years when a black lamb was born, they were sold for meat because the commercial market couldn’t dye black wool. The black sheep was the one you got rid of,” explains Francis Chester, who has been a shepherd in Augusta Springs, Va., for 50 years.
 
-> “Black sheep are great. I take the black wool and mix it with white wool and make beautiful yarn from it: light grey, medium gray, dark gray, light tweed, medium tweed and dark tweed. You don’t have to dye it and you can make beautiful garments from black wool,” he says.
-
 Because of growing demand for black wool from New York City’s garment district, Chester has a black ram and is building up his herd of black sheep to meet the need. Chester also likes to point out that sheep and people really aren’t all that different. It’s safe to say that just as black sheep have great value, the black sheep of the family has great value too.
+
+> “Black sheep are great. I take the black wool and mix it with white wool and make beautiful yarn from it: light grey, medium gray, dark gray, light tweed, medium tweed and dark tweed. You don’t have to dye it and you can make beautiful garments from black wool,” he says.
 
 ![AstroPaper v4](@/assets/images/sheep2.png)
 
