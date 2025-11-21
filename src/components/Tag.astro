@@ -2,9 +2,9 @@
 import IconHash from "@/assets/icons/IconHash.svg";
 
 export interface Props {
-  tag: string;
-  tagName: string;
-  size?: "sm" | "lg";
+  tag: string;
+  tagName: string;
+  size?: "sm" | "lg";
 }
 
 const { tag, tagName, size = "sm" } = Astro.props;
@@ -13,27 +13,28 @@ const isSmall = size === "sm";
 ---
 
 <li
-  class:list={[
-    "group inline-block group-hover:cursor-pointer",
-    isSmall
-      ? "mr-2 mb-1 underline-offset-4"
-      : "mx-1 my-3 underline-offset-8",
-  ]}
+  class:list={[
+    "group inline-block group-hover:cursor-pointer",
+    // FIX: mr-2 mb-1 added for 'sm' size to create horizontal and vertical space (margin).
+    isSmall
+      ? "mr-2 mb-1 underline-offset-4"
+      : "mx-1 my-3 underline-offset-8",
+  ]}
 >
-  <a
-    href={`/tags/${tag}/`}
-    transition:name={tag}
-    class:list={[
-      "relative pe-2 text-lg underline decoration-dashed group-hover:-top-0.5 group-hover:text-accent focus-visible:p-1 focus-visible:no-underline",
-      { "text-sm": isSmall },
-    ]}
-  >
-    <IconHash
-      class:list={[
-        "inline-block opacity-80",
-        isSmall ? "-me-3.5 size-4" : "-me-5 size-6",
-      ]}
-    />
-    &nbsp;<span>{tagName}</span>
-  </a>
+  <a
+    href={`/tags/${tag}/`}
+    transition:name={tag}
+    class:list={[
+      "relative pe-2 text-lg underline decoration-dashed group-hover:-top-0.5 group-hover:text-accent focus-visible:p-1 focus-visible:no-underline",
+      { "text-sm": isSmall },
+    ]}
+  >
+    <IconHash
+      class:list={[
+        "inline-block opacity-80",
+        isSmall ? "-me-3.5 size-4" : "-me-5 size-6",
+      ]}
+    />
+    &nbsp;<span>{tagName}</span>
+  </a>
 </li>
