@@ -50,4 +50,4 @@ Elif Hasanatu, a young Syrian girl who is among Çelikiz's students, said she wa
 
 > 'We have very good teachers here. You only need to finish the class to go out and play,' she said.
 
-**Source:** [Daily Sabah](https://www.dailysabah.com/turkey/2019/07/18/play-and-pray-mosques-playground-draws-kids)
+**Source:** <a href="https://www.dailysabah.com/turkey/2019/07/18/play-and-pray-mosques-playground-draws-kids" target="_blank">Daily Sabah</a>
