@@ -1,3 +1,4 @@
+---
 author: Daily Sabah (IHA)
 pubDatetime: 2019-07-22T00:00:00Z
 modDatetime: 2019-07-22T00:00:00Z
@@ -11,6 +12,7 @@ tags:
   - Community
 description: An imam in Kocaeli (Turkey) transforms his mosque's courtyard with a playground to attract children to summer Quran classes.
 canonicalURL: https://www.dailysabah.com/turkey/2019/07/18/play-and-pray-mosques-playground-draws-kids
+---
 
 # Play and pray: Mosque's playground draws kids
 
