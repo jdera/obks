@@ -2,8 +2,7 @@
 @import "tailwindcss";
 @import "./typography.css";
 
-/* Import Geist from Google Fonts */
-@import url("https://fonts.googleapis.com/css2?family=Geist:wght@100..900&display=swap");
+/* REMOVED: @import url("https://fonts.googleapis.com/css2?family=Geist:wght@100..900&display=swap"); */
 
 @custom-variant dark (&:where([data-theme=dark], [data-theme=dark] *));
 
@@ -18,9 +17,9 @@ html[data-theme="light"] {
   --muted: #e6e6e6;
   --border: #ece9e9;
 
-  /* Fonts - kept as you had them to prevent breaking other references */
-  --font-body: "Geist", ui-sans-serif, system-ui, sans-serif;
-  --font-heading: "Geist", ui-sans-serif, system-ui, sans-serif;
+  /* UPDATED: Segoe UI as primary font for body and heading */
+  --font-body: "Segoe UI", ui-sans-serif, system-ui, sans-serif;
+  --font-heading: "Segoe UI", ui-sans-serif, system-ui, sans-serif;
   --font-mono: "SFMono-Regular", "Fira Code", "Menlo", monospace;
 }
 
@@ -51,9 +50,9 @@ html[data-theme="dark"] {
     scrollbar-color: var(--color-muted) transparent;
   }
 
-  /* FIXED: Moved this outside of the previous nesting and added Segoe UI */
+  /* Ensures all elements use the updated --font-body variable */
   html, body {
-    font-family: 'Segoe UI', ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif;
+    font-family: var(--font-body);
   }
 
   /* HTML Scroller */
@@ -61,7 +60,7 @@ html[data-theme="dark"] {
      @apply overflow-y-scroll scroll-smooth;
   }
 
-  /* BODY: Removed 'font-mono' so it uses the Segoe UI rule above */
+  /* BODY */
   body {
     @apply flex min-h-svh flex-col bg-background text-foreground selection:bg-accent/75 selection:text-background;
   }
@@ -92,4 +91,5 @@ html[data-theme="dark"] {
 /* Anything that has been anchored to should have extra scroll margin */
 :target {
   scroll-margin-block: 1rem;
+}
 }

@@ -14,8 +14,6 @@ description: An imam in Kocaeli (Turkey) transforms his mosque's courtyard with 
 canonicalURL: https://www.dailysabah.com/turkey/2019/07/18/play-and-pray-mosques-playground-draws-kids
 ---
 
-# Play and pray: Mosque's playground draws kids
-
 **_"He who has ears to hear..."_**
 
 ![A young boy holding a Quran in front of a mosque.](@/assets/images/kids1.png)
