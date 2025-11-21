@@ -117,7 +117,7 @@ html[data-theme="dark"] {
     =========================== */
 .rss-viewer-pill {
     /* 1. Color Inversion: Background becomes Foreground (Text), and vice versa */
-    background-color: var(--background);
+    background-color: var(--accent);
     color: var(--foreground);
 
     /* 2. Style Adjustments */
@@ -131,7 +131,7 @@ html[data-theme="dark"] {
 
 .rss-viewer-pill:hover {
     /* Optional: Use the accent color for the hover background */
-    background-color: var(--accent);
+    background-color: var(--foreground);
     /* Keep text color as the background color for high contrast */
     color: var(--background); 
 }
