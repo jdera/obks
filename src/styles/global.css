@@ -92,3 +92,22 @@ html[data-theme="dark"] {
 :target {
   scroll-margin-block: 1rem;
 }
+
+/* ===========================
+   Tag Spacing Fix (Scrunching Issue)
+   =========================== */
+.post-tag-item {
+    /* Ensures the element respects the margin and padding */
+    display: inline-block; 
+    
+    /* ADD MARGIN: Space to the right (8px) and bottom (4px)
+       This prevents horizontal scrunching and gives vertical spacing 
+       when the tags wrap to a new line. Adjust 8px and 4px as needed. */
+    margin: 0 8px 4px 0; 
+    
+    /* Optional: You may also want to apply the fix for the dotted line overlap here
+    text-decoration: none; 
+    border-bottom: 1px dotted currentColor;
+    padding-bottom: 1px;
+    */
+}
