@@ -1,9 +1,9 @@
 export const SITE = {
   website: "https://openbooks.ink/", // replace this with your deployed domain
-  author: "OpenBooks.ink",
+  author: "OpenBooks",
   profile: "https://openbooks.ink/",
   desc: "Thought-provoking articles and publications.",
-  title: "OpenBooks",
+  title: "OpenBooks.ink",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
   postPerIndex: 4,
