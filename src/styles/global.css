@@ -111,3 +111,27 @@ html[data-theme="dark"] {
     padding-bottom: 1px;
     */
 }
+
+/* ===========================
+    RSS Viewer Pill Style
+    =========================== */
+.rss-viewer-pill {
+    /* 1. Color Inversion: Background becomes Foreground (Text), and vice versa */
+    background-color: var(--foreground);
+    color: var(--background);
+
+    /* 2. Style Adjustments */
+    padding: 0.1rem 0.4rem; 
+    border-radius: 4px;
+    text-decoration: none !important; /* Removes the dashed underline */
+    
+    /* 3. Hover Transition */
+    @apply transition-colors duration-200;
+}
+
+.rss-viewer-pill:hover {
+    /* Optional: Use the accent color for the hover background */
+    background-color: var(--accent);
+    /* Keep text color as the background color for high contrast */
+    color: var(--background); 
+}
