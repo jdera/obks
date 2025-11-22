@@ -45,8 +45,8 @@ const recentPosts = sortedPosts.filter(({ data }) => !data.featured);
       <p>
         A compilation of thought-provoking articles gathered from diverse sources across the internet. We hope to inspire, encourage, and challenge people to think differently about the world around them.
       </p>
-      <p class="mt-2">
-        Subscribe to our 
+      <p class="mt-2 ml-2">
+        └── Subscribe to our 
         <LinkButton
           class="underline decoration-dashed underline-offset-4 hover:text-accent"
           href="/rss.xml"
@@ -55,16 +55,9 @@ const recentPosts = sortedPosts.filter(({ data }) => !data.featured);
           feed
         </LinkButton> for the latest news articles.
       </p>
-      <p class="mt-2 ml-2">
-        └── You'll need an
-        <LinkButton
-          class="rss-viewer-pill"
-          href="https://feeder.co"
-          target="_blank"
-        >
-          RSS viewer
-        </LinkButton> for this.
-      </p>
+   // class="rss-viewer-pill"
+   //  href="https://feeder.co"
+   //  target="_blank"
       {
         // only display if at least one social link is enabled
         SOCIALS.length > 0 && (
