@@ -14,7 +14,7 @@ description: Powerful imagery of how mother eagles prepare their young to fly by
 canonicalURL: https://www.soaringwithhim.com/
 ---
 
-![eaglecam](@/assets/images/eagle2.png)
+![eaglecam](@/assets/images/eagle2.jpg)
 
 When I was about 10 years old, my mom, a psychology high school teacher at that time, showed me pictures of the **American eagle** for the first time while reading a captivating story about their resilience, perseverance, and strength. I remember listening to her dramatic voice, spellbound, while images of that majestic bird danced in my mind.
 
@@ -42,7 +42,7 @@ With her long talons, she starts bringing up the thorns and sharp rocks, exposin
 
 Would mother eagle not stir up its nest, the eaglets would not have the desire to fly. Would the eaglets not be prompted to fly, they would never learn how to **soar above the storms**.
 
-![eaglecam](@/assets/images/eagle.jpg)
+![eaglecam](@/assets/images/eagle.png)
 
 ### A Powerful Imagery for Faith
 
