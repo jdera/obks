@@ -1,7 +1,7 @@
 ---
 author: Daily Sabah (IHA)
 pubDatetime: 2019-07-22T00:00:00Z
-modDatetime: 2025-11-21T00:00:00Z
+modDatetime: 2025-11-07T00:00:00Z
 title: "Play and pray: Mosque's playground draws kids"
 slug: mosque-playground-draws-kids
 featured: false
