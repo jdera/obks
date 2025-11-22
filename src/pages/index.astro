@@ -9,6 +9,7 @@ import Card from "@/components/Card.astro";
 import Hr from "@/components/Hr.astro";
 import getSortedPosts from "@/utils/getSortedPosts";
 import IconRss from "@/assets/icons/IconRss.svg";
+import IconFav from "@/assets/icons/favicon.svg";
 import IconArrowRight from "@/assets/icons/IconArrowRight.svg";
 import { SITE } from "@/config";
 import { SOCIALS } from "@/constants";
@@ -28,18 +29,17 @@ const recentPosts = sortedPosts.filter(({ data }) => !data.featured);
         OpenBooks
       </h1>
       <a
-        target="_blank"
-        href="/rss.xml"
+        href="/about.md"
         class="inline-block"
-        aria-label="rss feed"
-        title="RSS Feed"
+        aria-label="about"
+        title="About"
       >
-        <IconRss
+        <IconFav
           width={20}
           height={20}
           class="scale-125 stroke-accent stroke-3 rtl:-rotate-90"
         />
-        <span class="sr-only">RSS Feed</span>
+        <span class="sr-only">Easter Egg</span>
       </a>
 
       <p>
