@@ -14,13 +14,13 @@ description: Powerful imagery of how mother eagles prepare their young to fly by
 canonicalURL: https://www.soaringwithhim.com/
 ---
 
-![eaglecam](@/assets/images/eagle2.jpg)
-
 When I was about 10 years old, my mom, a psychology high school teacher at that time, showed me pictures of the **American eagle** for the first time while reading a captivating story about their resilience, perseverance, and strength. I remember listening to her dramatic voice, spellbound, while images of that majestic bird danced in my mind.
 
 That story birthed a lifetime love and fascination for the American eagle. Hence, it’s no wonder I was beyond excited when a friend told me of the **“Eaglecam”** installed at Berry College campus in Rome.
 
 Two cameras provide 24-hour live video feeds of a bald eagle’s nest. Even right now, as I write, one of my computer monitors shows two eaglets sleeping, while their watchful mother’s head turns to all sides, ensuring that her babies remain safe while resting.
+
+![eaglecam](@/assets/images/eagle.png)
 
 ## How the Mother Eagle Prepares the Nest
 
@@ -42,7 +42,7 @@ With her long talons, she starts bringing up the thorns and sharp rocks, exposin
 
 Would mother eagle not stir up its nest, the eaglets would not have the desire to fly. Would the eaglets not be prompted to fly, they would never learn how to **soar above the storms**.
 
-![eaglecam](@/assets/images/eagle.png)
+![eaglecam](@/assets/images/eagle2.jpg)
 
 ### A Powerful Imagery for Faith
 
