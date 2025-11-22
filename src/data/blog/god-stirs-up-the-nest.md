@@ -59,7 +59,11 @@ As I read these and so many other stories of men and women who have left a mark 
 > There is a time to be nurtured, a time to be fed, protected, and safe. But when God allows rocky circumstances to disturb our peace, there’s no question about it – it’s because he knows he designed us to soar.
 
 ```txt
-But they that wait upon the LORD shall renew their strength; they shall mount up with wings as eagles; they shall run, and not be weary; and they shall walk, and not faint. (Isaiah 40:31 KJV)
+But they that wait upon the LORD shall renew their strength;  
+they shall mount up with wings as eagles; they shall run,  
+and not be weary; and they shall walk, and not faint.  
+  
+(Isaiah 40:31 KJV)
 ```
 
 **Source:** <a href="https://www.soaringwithhim.com/" target="_blank">Soaring With Him</a>
