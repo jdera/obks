@@ -57,6 +57,9 @@ The same principle translates in the lives of many of history's greats. Florence
 As I read these and so many other stories of men and women who have left a mark in God’s kingdom and in history because of their trials, and as I watch my computer monitor, where two baby eagles rest under their mother’s protective watch, this truth echoes in my heart:
 
 > There is a time to be nurtured, a time to be fed, protected, and safe. But when God allows rocky circumstances to disturb our peace, there’s no question about it – it’s because he knows he designed us to soar.
->> But those who trust in the LORD will find new strength. They will soar high on wings like eagles. They will run and not grow weary. They will walk and not faint. (Isaiah 40:31)
+
+```txt
+But they that wait upon the LORD shall renew their strength; they shall mount up with wings as eagles; they shall run, and not be weary; and they shall walk, and not faint. (Isaiah 40:31 KJV)
+```
 
 **Source:** <a href="https://www.soaringwithhim.com/" target="_blank">Soaring With Him</a>
