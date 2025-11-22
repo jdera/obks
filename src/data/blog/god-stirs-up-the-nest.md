@@ -2,7 +2,7 @@
 author: Patricia Holbrook
 pubDatetime: 2017-03-06T00:00:00Z
 modDatetime: 2025-11-21T00:00:00Z
-title: God stirs up the nest... to Teach Us to Soar
+title: God stirs up the nest... to teach us to soar
 slug: god-stirs-up-the-nest-to-teach-us-to-soar
 featured: false
 draft: false
