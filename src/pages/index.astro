@@ -41,9 +41,8 @@ const recentPosts = sortedPosts.filter(({ data }) => !data.featured);
         />
         <span class="sr-only">RSS Feed</span>
       </a>
-
         <p class="mt-2 ml-2">
-          └── Subscribe to our{" "}
+          ├── Subscribe to our{" "}
           <LinkButton
             class="underline decoration-dashed underline-offset-4 hover:text-accent"
             href="/rss.xml"
@@ -53,7 +52,17 @@ const recentPosts = sortedPosts.filter(({ data }) => !data.featured);
           </LinkButton>{" "}
           for the latest articles.
         </p>
-        
+        <p class="mt-2 ml-6">
+          │   └── Purchase a
+         <LinkButton
+            class="underline decoration-dashed underline-offset-4 hover:text-accent"
+            href="/rss.xml"
+            target="_blank"
+          >
+            shirt
+          </LinkButton>
+          and share a story.
+        </p>
         <!--
             class="rss-viewer-pill"        
             href="https://feeder.co"
