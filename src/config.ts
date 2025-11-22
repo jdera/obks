@@ -3,7 +3,7 @@ export const SITE = {
   author: "OpenBooks",
   profile: "https://openbooks.ink/",
   desc: "Thought-provoking articles and publications.",
-  title: "OpenBooks.ink",
+  title: "OpenBooks",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
   postPerIndex: 4,
