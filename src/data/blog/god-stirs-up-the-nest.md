@@ -10,7 +10,7 @@ tags:
   - faith
   - encouragement
   - parable
-description: Powerful imagery of how mother eagles prepare their young to fly by stirring up the nest, relating it to how God strengthens our faith through trials and difficulties.
+description: A powerful illustration of how mother eagles prepare their young to fly, relating it to how our faith is strengthened through trials and difficulties.
 canonicalURL: https://www.soaringwithhim.com/
 ---
 
