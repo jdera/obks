@@ -56,4 +56,6 @@ Still, that's a far cry from the destruction of much of the neighborhood. Lackey
 
 > 'I had already seen the pictures of destruction, but there was nothing like it first-hand. Before I made it to the house, I already had tears in my eyes for the community,' Lackey said.
 
+![sand palace front](@/assets/images/sand5.jpg)
+
 **Source:** <a href="https://www.cnn.com/2018/10/15/us/mexico-beach-house-hurricane-trnd/index.html" target="_blank">CNN</a>
