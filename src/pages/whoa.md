@@ -17,7 +17,7 @@ title: "Whoa"
 
 ![mockup2](public/mockup2.png)
 
-## Follow our socials
+## Follow Our Socials
 
 For latest articles and more, <a href="https://feedrabbit.com/subscriptions/new?url=https%3A%2F%2Fwww.openbooks.ink%2F" target="_blank">subscribe</a> to our newsfeed. <img src="https://raw.githubusercontent.com/jdera/obks/main/src/assets/icons/rss.png" width="14" style="vertical-align: middle; margin-left: 2px; display: inline-block;" alt="RSS"></span>
 
