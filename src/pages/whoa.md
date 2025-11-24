@@ -17,7 +17,7 @@ title: "Whoa"
 
 ![mockup2](public/mockup2.png)
 
-## Subscribe to our socials
+## Follow our socials
 
 For latest articles and more, <a href="/rss.xml" target="_blank">subscribe</a> to our newsfeed...  
   &nbsp; └── You'll need an <span style="white-space: nowrap;"><a href="https://feeder.co/" target="_blank">RSS reader</a> <img src="https://raw.githubusercontent.com/jdera/obks/main/src/assets/icons/rss.png" width="14" style="vertical-align: middle; margin-left: 2px; display: inline-block;" alt="RSS"> for this.</span>
