@@ -19,9 +19,8 @@ title: "Whoa"
 
 ## Subscribe to our socials
 
-For latest articles and more, <a href="/rss.xml" target="_blank">subscribe</a> to our newsfeed...
-
-└── You'll need an <a href="https://feeder.co/" target="_blank">RSS reader</a> for this.
-
+For latest articles and more, <a href="/rss.xml" target="_blank">subscribe</a> to our newsfeed...  
+└── You'll need an <a href="https://feeder.co/" target="_blank">RSS reader </a> ![RSS Icon]("/assets/icons/IconFav.svg") for this.
 <br />
+
 OBKS! 🙏🏼
