@@ -17,8 +17,8 @@ canonicalURL: https://www.cnn.com/2018/10/15/us/mexico-beach-house-hurricane-trn
 
 ## 🏠 The House That Withstood Michael
 
-> Therefore everyone who hears these words of mine and puts them into practice is like a wise man who built his house on the rock. The rain came down, the streams rose, and the winds blew and beat against that house; yet it did not fall, because it had its foundation on the rock. But everyone who hears these words of mine and does not put them into practice is like a foolish man who built his house on sand. The rain came down, the streams rose, and the winds blew and beat against that house, and it fell with a great crash. 
-> (Matthew 7:24-27 NIV)
+> Everyone who hears these words of mine and does them is like a wise man who built his house on rock.
+> (Matthew 7:24 NET)
 
 ![sand palace](@/assets/images/sand.jpg)
 
