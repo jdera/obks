@@ -18,6 +18,10 @@ You stumbled onto a secret page. Because of your curiosity, we want to show our 
 
 ## Subscribe to our socials
 
-For latest articles upon release, subscribe to our RSS feed... _Note_: You'll need an [RSS reader](https://feeder.co) for this.
+For latest articles and more, [subscribe](/rss.xml) to our newsfeed
+
+> └── You'll need an [RSS reader](https://feeder.co/) for this.
+
+(<u>**Tip**</u>: they're super useful for viewing and aggregating content).
 
 OBKS! 🙏🏼
