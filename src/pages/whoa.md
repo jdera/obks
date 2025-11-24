@@ -12,7 +12,7 @@ title: "Whoa"
     target="_blank"
   >
     PROMO15
-  </LinkButton> 
+  </LinkButton>
   upon checkout to receive 15% OFF your purchase price. Thanks for being a supporter of the site.
 </p>
 
