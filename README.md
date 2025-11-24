@@ -6,6 +6,7 @@ Subscribe to our [RSS feed](https://www.openbooks.ink/rss.xml) for regular updat
 
   &nbsp; └── You'll need an <span style="white-space: nowrap;"><a href="https://feeder.co/" target="_blank">RSS reader</a> <img src="https://raw.githubusercontent.com/jdera/obks/main/src/assets/icons/rss.png" width="14" style="vertical-align: middle; margin-left: 2px; display: inline-block;" alt="RSS"> for this.</span>
 
+<p>
 Check out our <a href="https://www.bonfire.com/store/openbooks/" target="_blank">Merch</a> store. Use the code
 <LinkButton 
   class="rss-viewer-pill" 
