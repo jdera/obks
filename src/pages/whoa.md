@@ -9,8 +9,8 @@ You stumbled onto a secret page. Because of your curiosity, we want to show our 
           href="https://www.bonfire.com/store/openbooks/"
           target="_blank"
         >
-        PROMO15
-        </LinkButton> upon checkout to receive 15% OFF your purchase price. Thanks for being a supporter of the site.
+        PROMO15 
+        </LinkButton>upon checkout to receive 15% OFF your purchase price. Thanks for being a supporter of the site.
 
 ![mockup](public/mockup.png)
 
