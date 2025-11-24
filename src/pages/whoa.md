@@ -3,7 +3,7 @@ layout: ../layouts/AboutLayout.astro
 title: "Whoa"
 ---
 
-You stumbled onto a secret page. Because of your curiosity, we want to show our love by offering an exclusive discount for our merch. Use the code 
+You stumbled onto a secret page. Because of your curiosity, we want to show our love by offering an exclusive discount for our [merch store](https://www.bonfire.com/store/openbooks). Use the code 
         <LinkButton
           class="rss-viewer-pill"        
           href="https://www.bonfire.com/store/openbooks/"
