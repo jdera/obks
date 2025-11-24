@@ -5,7 +5,7 @@ title: "Whoa"
 
 <p>
   You stumbled onto a secret page. Because of your curiosity, we want to show our love by offering an exclusive discount for our 
-  <a href="https://www.bonfire.com/store/openbooks/">merch store</a>. Use the code
+  <a href="https://www.bonfire.com/store/openbooks/" target="_blank">merch store</a>. Use the code
 <LinkButton 
   class="rss-viewer-pill" 
   href="https://www.bonfire.com/store/openbooks/" 
@@ -13,15 +13,15 @@ title: "Whoa"
  to receive 15% OFF your purchase price. Thanks for being a supporter of the site.
 </p>
 
-![mockup](public/mockup.png)
+![mockup](public/mockup.jpg)
 
 ![mockup2](public/mockup2.png)
 
 ## Subscribe to our socials
 
-For latest articles and more, [subscribe](/rss.xml) to our newsfeed
+For latest articles and more, <a href="/rss.xml" target="_blank">subscribe</a> to our newsfeed
 
-> └── You'll need an [RSS reader](https://feeder.co/) for this.
+> └── You'll need an <a href="https://feeder.co/" target="_blank">RSS reader</a> for this.
 
 (<u>**Tip**</u>: they're super useful for viewing and aggregating content).
 
