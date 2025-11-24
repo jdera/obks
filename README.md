@@ -6,6 +6,6 @@ Subscribe to our [newsfeed](https://www.openbooks.ink/rss.xml) for regular updat
 
   &nbsp; └── You'll need an <span style="white-space: nowrap;"><a href="https://feeder.co/" target="_blank">RSS reader</a> <img src="https://raw.githubusercontent.com/jdera/obks/main/src/assets/icons/rss.png" width="14" style="vertical-align: middle; margin-left: 2px; display: inline-block;" alt="RSS"> for this.</span>
 
-Check out our <a href="https://www.bonfire.com/store/openbooks/" target="_blank">Merch</a> store. Use the code **PROMO15** upon checkout to receive 15% OFF your purchase price.
+Check out our [Merch](https://www.bonfire.com/store/openbooks) store. Use the code **PROMO15** upon checkout to receive 15% OFF your purchase price.
 
 Template made by [Astro-Paper](https://astro-paper.pages.dev/)
