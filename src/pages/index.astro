@@ -57,19 +57,13 @@ const recentPosts = sortedPosts.filter(({ data }) => !data.featured);
           RSS
         </LinkButton> feed.
       </p>
-    <!--
+        <LinkButton
         class="rss-viewer-pill"        
-        href="https://feeder.co"
+        href="https://feedrabbit.com/subscriptions/new?url=https%3A%2F%2Fwww.openbooks.ink%2F"
         target="_blank"
-    -->
-      {
-        // only display if at least one social link is enabled
-        SOCIALS.length > 0 && (
-          <div class="mt-4 flex flex-col sm:flex-row sm:items-center">
-            <Socials />
-          </div>
-        )
-      }
+        >
+          Newsletter (Sign Up)
+        </LinkButton>
     </section>
 
     <Hr />
