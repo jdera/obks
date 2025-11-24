@@ -20,7 +20,9 @@ title: "Whoa"
 ## Subscribe to our socials
 
 For latest articles and more, <a href="/rss.xml" target="_blank">subscribe</a> to our newsfeed...  
-└── You'll need an <a href="https://feeder.co/" target="_blank">RSS reader </a> ![RSS Icon](/assets/icons/IconFav.svg) for this.  
+<p>
+  └── You'll need an <a href="https://feeder.co/" target="_blank">RSS reader <img src="/assets/icons/IconRss.svg" alt="RSS Icon" style="vertical-align: middle; height: 1em;"></a> for this.
+</p>
 
 
 OBKS! 🙏🏼
