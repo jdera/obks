@@ -8,4 +8,4 @@ Subscribe to our [newsfeed](https://www.openbooks.ink/rss.xml) for regular updat
 
 Check out our [Merch](https://www.bonfire.com/store/openbooks/) store.
 
-_Template made by [Astro-Paper](https://astro-paper.pages.dev/)_
+_Template made with [Astro-Paper](https://astro-paper.pages.dev/)_
