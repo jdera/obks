@@ -28,7 +28,7 @@ Because of growing demand for black wool from New York City’s garment district
 
 > 'Black sheep are great. I take the black wool and mix it with white wool and make beautiful yarn from it: light grey, medium gray, dark gray, light tweed, medium tweed and dark tweed. You don’t have to dye it and you can make beautiful garments from black wool,' he says.
 
-![AstroPaper v4](@/assets/images/sheep2.png)
+![black sheep 2](@/assets/images/sheep2.png)
 
 Chester has tended sheep, practiced law and run a wool yarn and products business in Virginia since June 10, 1968 and would like to see the sheep numbers grow in the eastern United States. To encourage farmers to try their hand at becoming shepherds, Chester and his family established the **“Let’s Grow Sheep Together”** program where they will pay shepherds $3 per pound for their wool, which Chester says is the highest price offered in the country.
 
