@@ -48,7 +48,12 @@ const recentPosts = sortedPosts.filter(({ data }) => !data.featured);
     -->
       </p>
       <p class="mt-2 ml-2">
-        └── Subscribe to our 
+        └── <LinkButton
+        class="rss-viewer-pill"        
+        href="https://feedrabbit.com/subscriptions/new?url=https%3A%2F%2Fwww.openbooks.ink%2F"
+        target="_blank"
+        >Subscribe
+        </LinkButton> to our 
         <LinkButton
           class="underline decoration-dashed underline-offset-4 hover:text-accent"
           href="/rss.xml"
@@ -56,14 +61,15 @@ const recentPosts = sortedPosts.filter(({ data }) => !data.featured);
         >
           RSS
         </LinkButton> feed.
-        <LinkButton
-        class="rss-viewer-pill"        
-        href="https://feedrabbit.com/subscriptions/new?url=https%3A%2F%2Fwww.openbooks.ink%2F"
-        target="_blank"
-        >
-          Newsletter (Sign Up)
-        </LinkButton>
       </p>
+      {
+        // only display if at least one social link is enabled
+        SOCIALS.length > 0 && (
+          <div class="mt-4 flex flex-col sm:flex-row sm:items-center">
+            <Socials />
+          </div>
+        )
+      }
     </section>
 
     <Hr />
