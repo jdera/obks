@@ -21,7 +21,7 @@ title: "Whoa"
 
 For latest articles and more, <a href="/rss.xml" target="_blank">subscribe</a> to our newsfeed...  
 <p>
-  └── You'll need an <a href="https://feeder.co/" target="_blank">RSS reader <img src="/assets/icons/Rss.png" alt="RSS Icon" style="vertical-align: middle; height: 1em;"></a> for this.
+  └── You'll need an <a href="https://feeder.co/" target="_blank">RSS reader</a> <img src="../assets/icons/Rss.png" alt="RSS Icon" style="vertical-align: middle; height: 1em;"></a> for this.
 </p>
 
 
