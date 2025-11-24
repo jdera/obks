@@ -7,15 +7,15 @@
 @custom-variant dark (&:where([data-theme=dark], [data-theme=dark] *));
 
 /* ===========================
-   Light Mode
-   ========================== */
-:root,
-html[data-theme="light"] {
-  --background: #fdfdfd;
-  --foreground: #201f20;
-  --accent: #963022;
-  --muted: #e6e6e6;
-  --border: #ece9e9;
+    Dark Mode (Default)
+    =========================== */
+:root {
+  --background: #161617;
+  --foreground: #f5f5f5;
+  --accent: #51a9ed;
+  --muted: #4a4c4e;
+  --border: #4a4c4e;
+  --icon-offset: 1px;
 
   /* UPDATED: Segoe UI as primary font for body and heading */
   --font-body: "Segoe UI", ui-sans-serif, system-ui, sans-serif;
@@ -24,15 +24,14 @@ html[data-theme="light"] {
 }
 
 /* ===========================
-   Dark Mode
-   ========================== */
-html[data-theme="dark"] {
-  --background: #161617;
-  --foreground: #f5f5f5;
-  --accent: #51a9ed;
-  --muted: #4a4c4e;
-  --border: #4a4c4e;
-  --icon-offset: 1px;
+    Light Mode (Override)
+    =========================== */
+html[data-theme="light"] {
+  --background: #fdfdfd;
+  --foreground: #201f20;
+  --accent: #963022;
+  --muted: #e6e6e6;
+  --border: #ece9e9;
 }
 
 @theme inline {
@@ -57,7 +56,7 @@ html[data-theme="dark"] {
 
   /* HTML Scroller */
   html {
-     @apply overflow-y-scroll scroll-smooth;
+    @apply overflow-y-scroll scroll-smooth;
   }
 
   /* BODY */
@@ -94,19 +93,19 @@ html[data-theme="dark"] {
 }
 
 /* ===========================
-   Tag Spacing Fix (Scrunching Issue)
-   =========================== */
+    Tag Spacing Fix (Scrunching Issue)
+    =========================== */
 .post-tag-item {
     /* Ensures the element respects the margin and padding */
-    display: inline-block; 
+    display: inline-block;
     
     /* ADD MARGIN: Space to the right (8px) and bottom (4px)
-       This prevents horizontal scrunching and gives vertical spacing 
+       This prevents horizontal scrunching and gives vertical spacing
        when the tags wrap to a new line. Adjust 8px and 4px as needed. */
-    margin: 0 8px 4px 0; 
+    margin: 0 8px 4px 0;
     
     /* Optional: You may also want to apply the fix for the dotted line overlap here
-    text-decoration: none; 
+    text-decoration: none;
     border-bottom: 1px dotted currentColor;
     padding-bottom: 1px;
     */
@@ -121,7 +120,7 @@ html[data-theme="dark"] {
     color: var(--background);
 
     /* 2. Style Adjustments */
-    padding: 0.1rem 0.4rem; 
+    padding: 0.1rem 0.4rem;
     border-radius: 4px;
     text-decoration: none !important; /* Removes the dashed underline */
     
@@ -133,5 +132,5 @@ html[data-theme="dark"] {
     /* Optional: Use the accent color for the hover background */
     background-color: var(--foreground);
     /* Keep text color as the background color for high contrast */
-    color: var(--background); 
+    color: var(--background);
 }
