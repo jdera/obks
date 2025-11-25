@@ -1,7 +1,7 @@
 ---
 author: Patricia Holbrook
 pubDatetime: 2017-03-06T00:00:00Z
-modDatetime: 2025-11-21T00:00:00Z
+modDatetime: 2025-11-15T00:00:00Z
 title: God, teach us to soar... again
 slug: god-stirs-up-the-nest-to-teach-us-to-soar
 featured: false
