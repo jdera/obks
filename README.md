@@ -1,6 +1,6 @@
 ![OBKS](src/assets/corp_white-sm.png)
 
-A repository of fun and thought-provoking articles curated from diverse sources across the internet. We hope to inspire, encourage, and challenge people to think differently about the world around them.
+A repository of neat and thought-provoking articles curated from diverse sources across the internet. We hope to inspire, encourage, and challenge people to think differently about the world around them.
 
 Subscribe to our [newsfeed](https://www.openbooks.ink/rss.xml) for regular updates.
 
