@@ -10,7 +10,7 @@ tags:
   - amazing
   - scenery
   - provoking
-description: A gallery of strangely "real-life" places to explore and contemplate.
+description: A gallery of strangely "real-life" places and things to explore and contemplate.
 canonicalURL: https://www.openbooks.ink/
 ---
 
