@@ -1,7 +1,7 @@
 ---
 author: Weird World
 pubDatetime: 2012-01-25T00:00:00Z
-modDatetime: 2025-11-25T07:00:00Z
+modDatetime: 2025-11-25T00:00:00Z
 title: Amazing scenery (Part 1)
 slug: amazing-scenery-part1
 featured: false
