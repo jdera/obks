@@ -11,7 +11,7 @@ tags:
   - scenery
   - provoking
 description: A gallery of strangely "real-life" places to explore and contemplate.
-canonicalURL: 
+canonicalURL: https://www.openbooks.ink/
 ---
 
 ![Image 01](@/assets/images/scenery/aiayd2txks9wqhnhbmuk.png)
