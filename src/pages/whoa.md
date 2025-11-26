@@ -4,7 +4,7 @@ title: "Whoa"
 ---
 
 <p>
-  You stumbled onto a secret page. Because of your curiosity, we want to show our love by offering an exclusive discount for our 
+  You stumbled onto a secret page! Because of your curiosity, we want to show our love by offering an exclusive discount for our 
   <a href="https://www.bonfire.com/store/openbooks/" target="_blank">Merch</a> store. Use the code
 <LinkButton 
   class="rss-viewer-pill" 
