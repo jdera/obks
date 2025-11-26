@@ -15,6 +15,7 @@ description: An email exchange between a father and son reflecting on the true m
 canonicalURL: https://www.openbooks.ink/
 ---
 ![Father](@/assets/images/father.png)
+> **Image source** ©<a href="https://pixabay.com/photos/father-son-sunset-lake-713690" target="_blank">Pixabay</a>
 
 **From:** Richard <richard.\*\*\*\*\*\*@hotmail.com>  
 **Date:** April 30, 2015 at 12:19:36 EDT  
@@ -49,5 +50,3 @@ _I really think that when I'm finished with school, and possess a solid tenure w
 
 _Love -_  
 _Jason_
-
-> **Image source** ©<a href="https://pixabay.com/photos/father-son-sunset-lake-713690" target="_blank">Pixabay</a>
