@@ -17,7 +17,7 @@ canonicalURL: https://www.openbooks.ink/
 ![Father](@/assets/images/father.png)
 
 **From:** Richard <richard.\*\*\*\*\*\*@hotmail.com>  
-**Date:** April 30, 2015 at 12:19:36 EDT  
+**Date:** April 30, 2015 at 12:19 PM EDT  
 **To:** Julian <julian.\*.\*\*\*\*\*\*@gmail.com>  
 **Subject:** RE: Miss you pops!
 
