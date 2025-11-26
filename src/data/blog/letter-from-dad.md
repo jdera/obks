@@ -14,7 +14,7 @@ tags:
 description: An email exchange between a father and son reflecting on the true meaning of success, legacy, and the importance of being present.
 canonicalURL: https://www.openbooks.ink/
 ---
-![Father](@/assets/images/father.png)<small>© Leila Schmidt</small>
+![Father](@/assets/images/father.png)
 
 **From:** Richard <richard.\*\*\*\*\*\*@hotmail.com>  
 **Date:** April 30, 2015 at 12:19:36 EDT  
@@ -49,3 +49,5 @@ _I really think that when I'm finished with school, and possess a solid tenure w
 
 _Love -_  
 _Jason_
+
+**Image source** © <a href="https://pixabay.com/users/leilaschmidt-759486/" target="_blank">Pixabay</a>
