@@ -37,7 +37,7 @@ _Dad_
 **From:** Julian <julian.\*.\*\*\*\*\*\*@gmail.com>  
 **Date:** Thu, Apr 29, 2015 at 11:54 AM EDT  
 **To:** Richard <richard.\*\*\*\*\*\*@hotmail.com>  
-**Subject:** Fwd: Miss you pops!
+**Subject:** Miss you pops!
 
 _Dad,_
 
