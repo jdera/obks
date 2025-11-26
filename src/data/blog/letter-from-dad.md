@@ -49,5 +49,5 @@ I really think that when I'm finished with school, and possess a solid tenure wi
 Love -  
 Jason_
 
-![Father](@/assets/images/scenery/aiayd2txks9wqhnhbmuk.png)
+![Father](@/assets/images/father.png)
 © Leila Schmidt
