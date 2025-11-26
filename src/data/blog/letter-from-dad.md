@@ -18,7 +18,7 @@ canonicalURL: https://www.openbooks.ink/
 
 **From:** Richard <richard.\*\*\*\*\*\*@hotmail.com>  
 **Date:** April 30, 2015 at 12:19:36 EDT  
-**To:** Jason <jason.\*.\*\*\*\*\*\*@gmail.com>  
+**To:** Julian <julian.\*.\*\*\*\*\*\*@gmail.com>  
 **Subject:** RE: Miss you pops!
 
 _Son -_
@@ -36,7 +36,7 @@ _Dad_
 
 **From:** Jason <jason.\*.\*\*\*\*\*\*@gmail.com>  
 **Date:** Thu, Apr 29, 2015 at 11:54 AM EDT  
-**To:** Richard <richard.\*\*\*\*\*\*@hotmail.com>  
+**To:** Julian <julian.\*\*\*\*\*\*@hotmail.com>  
 **Subject:** Fwd: Miss you pops!
 
 _Dad,_
@@ -48,6 +48,6 @@ _300+ people showed up to the funeral, and all the speakers said the same things
 _I really think that when I'm finished with school, and possess a solid tenure with the military and good standing with my employer, I will make my way closer to home in Texas. I love you and hope to talk to you soon!_
 
 _Love -_  
-_Jason_
+_Julian_
 
 > **Image source** ©<a href="https://pixabay.com/photos/father-son-sunset-lake-713690" target="_blank">Pixabay</a>
