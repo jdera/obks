@@ -15,8 +15,6 @@ description: The story of a vacation home designed and built to withstand 250 mp
 canonicalURL: https://www.cnn.com/2018/10/15/us/mexico-beach-house-hurricane-trnd/index.html
 ---
 
-## The House That Withstood Michael
-
 > Everyone who hears these words of mine and does them is like a wise man who built his house on rock.
 > (Matthew 7:24 NET)
 
