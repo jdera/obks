@@ -39,5 +39,14 @@ canonicalURL: https://www.openbooks.ink/
 ![Image 23](@/assets/images/scenery/vozjg0o4lkdc4rjaxybv.png)
 ![Image 24](@/assets/images/scenery/wmriutqz4xj5wpd4kauc.png)
 ![Image 25](@/assets/images/scenery/xuqhdhhgccv5dcliytfc.png)
+![Image 26](@/assets/images/scenery/amazing_scenery-26.png)
+![Image 27](@/assets/images/scenery/amazing_scenery-27.png)
+![Image 28](@/assets/images/scenery/amazing_scenery-28.png)
+![Image 29](@/assets/images/scenery/amazing_scenery-29.png)
+![Image 30](@/assets/images/scenery/amazing_scenery-30.png)
+![Image 31](@/assets/images/scenery/amazing_scenery-31.png)
+![Image 32](@/assets/images/scenery/amazing_scenery-32.png)
+![Image 33](@/assets/images/scenery/amazing_scenery-33.png)
+![Image 34](@/assets/images/scenery/amazing_scenery-34.png)
 
 **Source:** Weird World
