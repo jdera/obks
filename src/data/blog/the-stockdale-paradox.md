@@ -20,9 +20,7 @@ Some of the best lessons I’ve learned about personal development come from a b
 
 Author Jim Collins and his research team spent five years trying to identify the common factors that separated good (or briefly great) companies, from companies which were able to achieve and then sustain excellence for fifteen consecutive years or more.
 
-While reading, I realized that almost all the findings in the book could be applied on a personal level as well. (I’ve even written about The Hedgehog Concept here before.)
-
-While I would highly recommend that you get your hands on this book and read it in its entirety, today I’d like to share a part of it that has stuck with me most.
+While reading, I realized that almost all the findings in the book could be applied on a personal level as well. Today I’d like to share a part of it that has stuck with me most.
 
 ## The Stockdale Paradox
 
