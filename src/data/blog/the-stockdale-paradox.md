@@ -40,7 +40,7 @@ What the optimists failed to do was confront the reality of their situation. The
 
 Stockdale approached adversity with a very different mindset. He accepted the reality of his situation. He knew he was in hell, but, rather than bury his head in the sand, he stepped up and did everything he could to lift the morale and prolong the lives of his fellow prisoners. He created a tapping code so they could communicate with each other. He developed a milestone system that helped them deal with torture. And he sent intelligence information to his wife, hidden in the seemingly innocent letters he wrote.
 
-Collins and his team observed a similar mindset in the good-to-great companies. They labeled it the Stockdale Paradox and described it like so:
+Collins and his team observed a similar mindset in the good-to-great companies. They labeled it the "Stockdale Paradox" and described it like so:
 
 > **You must maintain unwavering faith that you can and will prevail in the end, regardless of the difficulties, and at the same time, have the discipline to confront the most brutal facts of your current reality, whatever they might be.**
 
