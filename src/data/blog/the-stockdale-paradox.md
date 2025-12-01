@@ -14,6 +14,10 @@ description: Lessons-learned about personal development from a source that isn�
 canonicalURL: http://ndoherty.com/stockdale-paradox/
 ---
 
+> **You must maintain unwavering faith that you can and will prevail in the end, regardless of the difficulties, and at the same time, have the discipline to confront the most brutal facts of your current reality, whatever they might be.**
+
+![Stockdale Paradox](@/assets/images/stockdaleparadox.png)
+
 Some of the best lessons I’ve learned about personal development come from a book that isn’t aimed at the personal development market at all. It’s a book about business and leadership, called <a href="https://www.amazon.com/Good-Great-Some-Companies-Others/dp/0066620996" target="_blank">*Good to Great*</a>.
 
 Author Jim Collins and his research team spent five years trying to identify the common factors that separated good (or briefly great) companies, from companies which were able to achieve and then sustain excellence for fifteen consecutive years or more.
@@ -39,10 +43,6 @@ While Stockdale had remarkable faith in the unknowable, he noted that it was alw
 What the optimists failed to do was confront the reality of their situation. They preferred the ostrich approach, sticking their heads in the sand and hoping for the difficulties to go away. That self-delusion might have made it easier on them in the short-term, but when they were eventually forced to face reality, it had become too much and they couldn’t handle it.
 
 Stockdale approached adversity with a very different mindset. He accepted the reality of his situation. He knew he was in hell, but, rather than bury his head in the sand, he stepped up and did everything he could to lift the morale and prolong the lives of his fellow prisoners. He created a tapping code so they could communicate with each other. He developed a milestone system that helped them deal with torture. And he sent intelligence information to his wife, hidden in the seemingly innocent letters he wrote.
-
-Collins and his team observed a similar mindset in the good-to-great companies. They labeled it the Stockdale Paradox and described it like so:
-
-> **You must retain faith that you will prevail in the end, regardless of the difficulties. AND at the same time... You must confront the most brutal facts of your current reality, whatever they might be.**
 
 ![Stockdale2](@/assets/images/stockdale2.png)
 
