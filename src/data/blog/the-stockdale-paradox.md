@@ -54,7 +54,7 @@ But optimism on its own can be a dangerous thing:
 
 > There’s no difference between a pessimist who says, “Oh, it’s hopeless, so don’t bother doing anything,” and an optimist who says, “Don’t bother doing anything, it’s going to turn out fine anyway.” Either way, nothing happens.
 >
-> – Yvon Chouinard
+> – Yvon Chouinard (Founder of Patagonia)
 
 So you need to embrace the second half of the Stockdale Paradox to really make strides. You must combine that optimism with brutal honesty and a willingness to take action.
 
