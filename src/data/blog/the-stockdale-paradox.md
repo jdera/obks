@@ -14,7 +14,7 @@ description: Lessons-learned about personal development from a source that isn�
 canonicalURL: http://ndoherty.com/stockdale-paradox/
 ---
 
-![Stockdale Paradox](@/assets/images/stockdaleparadox.png)
+![Stockdale 1](@/assets/images/stockdale.png)
 
 Some of the best lessons I’ve learned about personal development come from a book that isn’t aimed at the personal development market at all. It’s a book about business and leadership, called <a href="https://www.amazon.com/Good-Great-Some-Companies-Others/dp/0066620996" target="_blank">*Good to Great*</a>.
 
@@ -28,9 +28,9 @@ The Stockdale Paradox is named after Admiral Jim Stockdale, who was a United Sta
 
 > I never doubted not only that I would get out, but also that I would prevail in the end and turn the experience into the defining event of my life, which, in retrospect, I would not trade.
 
-![Stockdale1](@/assets/images/stockdale.png)
-
 Then comes the paradox.
+
+![Stockdale Paradox](@/assets/images/stockdaleparadox.png)
 
 While Stockdale had remarkable faith in the unknowable, he noted that it was always the most optimistic of his prisonmates who failed to make it out of there alive.
 
