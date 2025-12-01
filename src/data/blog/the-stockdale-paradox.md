@@ -60,6 +60,6 @@ So you need to embrace the second half of the Stockdale Paradox to really make s
 
 Now, of course, nobody likes admitting that they’re fat, that they’re broke, that they’ve chosen the wrong career or that their marriage is falling apart. But admitting such truths is an absolute necessity if you want to grow and improve.
 
-It might feel like you’re taking a few steps backward by doing so, but you can view that retreat as the pull-back on a sling shot: you’re just setting yourself up to make significant progress down the road.
+It might feel like you’re taking a few steps backward by doing so, but you can view that retreat as the pull-back on a sling shot: _You’re just setting yourself up to make significant progress down the road._
 
 **Source:** <a href="http://ndoherty.com/stockdale-paradox/" target="_blank">Niall Doherty</a>
