@@ -26,7 +26,7 @@ While reading, I realized that almost all the findings in the book could be appl
 
 The Stockdale Paradox is named after Admiral Jim Stockdale, who was a United States military officer held captive for eight years during the Vietnam War. Stockdale was tortured more than twenty times by his captors, and never had much reason to believe he would survive the prison camp and someday get to see his wife again. And yet, as Stockdale told Collins, he never lost faith during his ordeal:
 
-> 'I never doubted not only that I would get out, but also that I would prevail in the end and turn the experience into the defining event of my life, which, in retrospect, I would not trade.'
+> I never doubted not only that I would get out, but also that I would prevail in the end and turn the experience into the defining event of my life, which, in retrospect, I would not trade.
 
 ![Stockdale1](@/assets/images/stockdale.png)
 
