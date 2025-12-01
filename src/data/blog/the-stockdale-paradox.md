@@ -46,7 +46,7 @@ Collins and his team observed a similar mindset in the good-to-great companies. 
 
 ![Stockdale2](@/assets/images/stockdale2.png)
 
-For me, the Stockdale Paradox carries an important lesson in personal development, a lesson in faith and honesty: Never doubt that you can achieve your goals, no matter how lofty they may be and no matter how many critics and naysayers you may have. But at the same time, always take an honest stock of your current situation. Don’t lie to yourself for fear of short-term embarrassment or discomfort, because such deception will only come back to defeat you in the end.
+For me, the Stockdale Paradox carries an important lesson in personal development, a lesson in faith and honesty: _Never doubt that you can achieve your goals, no matter how lofty they may be and no matter how many critics and naysayers you may have. But at the same time, always take an honest stock of your current situation. Don’t lie to yourself for fear of short-term embarrassment or discomfort, because such deception will only come back to defeat you in the end._
 
 Living the first half of this paradox is relatively easy, since optimism really isn’t that hard. You just choose to believe that it will all turn out for the best, and everything that happens to you is a means to that end. Simple as.
 
