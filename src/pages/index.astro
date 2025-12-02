@@ -9,6 +9,7 @@ import Card from "@/components/Card.astro";
 import Hr from "@/components/Hr.astro";
 import getSortedPosts from "@/utils/getSortedPosts";
 import IconRss from "@/assets/icons/IconRss.svg";
+import IconSuno from "@/assets/icons/IconSuno.svg";
 import IconFav from "@/assets/icons/IconFav.svg";
 import IconArrowRight from "@/assets/icons/IconArrowRight.svg";
 import { SITE } from "@/config";
@@ -53,14 +54,7 @@ const recentPosts = sortedPosts.filter(({ data }) => !data.featured);
         href="https://blogtrottr.com/?subscribe=https://www.openbooks.ink/rss.xml"
         target="_blank"
         >Subscribe
-        </LinkButton> to our 
-        <LinkButton
-          class="underline decoration-dashed underline-offset-4 hover:text-accent"
-          href="/rss.xml"
-          target="_blank"
-        >
-          RSS
-        </LinkButton> feed.
+        </LinkButton> to our RSS feed.
       </p>
       {
         // only display if at least one social link is enabled
