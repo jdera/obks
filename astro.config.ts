@@ -11,21 +11,28 @@ import {
 import { transformerFileName } from "./src/utils/transformers/fileName";
 import { SITE } from "./src/config";
 
-// https://astro.build/config
+// [https://astro.build/config](https://astro.build/config)
 export default defineConfig({
   site: SITE.website,
   integrations: [
     sitemap({
-      filter: page => SITE.showArchives || !page.endsWith("/archives"),
+      filter: (page) => SITE.showArchives || !page.endsWith("/archives"),
     }),
   ],
   markdown: {
     remarkPlugins: [remarkToc, [remarkCollapse, { test: "Table of contents" }]],
     shikiConfig: {
-      // For more themes, visit https://shiki.style/themes
+      // For more themes, visit [https://shiki.style/themes](https://shiki.style/themes)
       themes: { light: "min-light", dark: "night-owl" },
       defaultColor: false,
       wrap: false,
+      // ALIAS ADDED HERE:
+      // Maps 'bible' (and 'babel' for the typo) to 'markdown' 
+      // so your verses render cleanly with bold/italic support.
+      langAlias: {
+        bible: "markdown",
+        babel: "markdown",
+      },
       transformers: [
         transformerFileName({ style: "v2", hideDot: false }),
         transformerNotationHighlight(),
@@ -38,7 +45,7 @@ export default defineConfig({
     // eslint-disable-next-line
     // @ts-ignore
     // This will be fixed in Astro 6 with Vite 7 support
-    // See: https://github.com/withastro/astro/issues/14030
+    // See: [https://github.com/withastro/astro/issues/14030](https://github.com/withastro/astro/issues/14030)
     plugins: [tailwindcss()],
     optimizeDeps: {
       exclude: ["@resvg/resvg-js"],
