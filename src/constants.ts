@@ -37,6 +37,12 @@ export const SOCIALS: Social[] = [
     icon: IconRss,
   },
   {
+    name: "Suno",
+    href: "https://suno.com/@obks",
+    linkTitle: `Share this post via SUNO`,
+    icon: IconSuno,
+  },
+  {
     name: "Mail",
     href: "mailto:openbooks.ink@proton.me",
     linkTitle: `Send an email to ${SITE.title}`,
