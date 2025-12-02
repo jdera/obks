@@ -6,7 +6,6 @@ import IconLinkedin from "@/assets/icons/IconLinkedin.svg";
 import IconWhatsapp from "@/assets/icons/IconWhatsapp.svg";
 import IconFacebook from "@/assets/icons/IconFacebook.svg";
 import IconTelegram from "@/assets/icons/IconTelegram.svg";
-import IconSuno from "@/assets/icons/IconSuno.svg";
 import IconPinterest from "@/assets/icons/IconPinterest.svg";
 import IconRss from "@/assets/icons/IconRss.svg"; // fixed
 import { SITE } from "@/config";
@@ -36,12 +35,6 @@ export const SOCIALS: Social[] = [
     href: "/rss.xml",
     linkTitle: `${SITE.title} on RSS`,
     icon: IconRss,
-  },
-  {
-    name: "Suno",
-    href: "https://suno.com/@obks",
-    linkTitle: `${SITE.title} on SUNO`,
-    icon: IconSuno,
   },
   {
     name: "Mail",
