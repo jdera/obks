@@ -2,7 +2,7 @@
 author: Alasdair Groves
 pubDatetime: 2021-05-24T00:00:00Z
 modDatetime: 2025-12-02T00:00:00Z
-title: Why Is Listening So Hard?
+title: Why is listening so hard?
 slug: why-is-listening-so-hard
 featured: true
 draft: false
