@@ -14,10 +14,6 @@ description: "Why we struggle to listen. Hint: Listening is hard because loving 
 canonicalURL: https://www.desiringgod.org/articles/why-is-listening-so-hard
 ---
 
-import RefreshOnFirstLoad from '@/components/RefreshOnFirstLoad.js';
-
-<RefreshOnFirstLoad />
-
 ![Coffee cup with latte art on a wooden table](@/assets/images/coffee-latte.jpg)
 
 ```bible
