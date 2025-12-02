@@ -16,9 +16,7 @@ canonicalURL: https://www.desiringgod.org/articles/why-is-listening-so-hard
 
 ![Coffee cup with latte art on a wooden table](@/assets/images/coffee-latte.jpg)
 
-```bible
-Know this, my beloved brothers: let every person be quick to hear, slow to speak, slow to anger. (James 1:19)
-```
+> Know this, my beloved brothers: let every person be quick to hear, slow to speak, slow to anger. (James 1:19)
 
 I don’t suppose I need to convince you that the apostle is right when he says we should be “quick to hear.” You know that listening is good. Both your personal experience and our Lord’s call to “love your neighbor as yourself” make the value of listening clear. Indeed, how will we ever speak words of Christ-centered hope and wisdom if we have not first listened attentively so that we might know what will be profitable to share?
 
@@ -54,9 +52,7 @@ Quick anger generates accusations rather than honest questions. “How could you
 
 No wonder James summarizes the entire anger dynamic only a page or so later by saying,
 
-```bible
-What causes quarrels and what causes fights among you? Is it not this, that your passions are at war within you? You desire and do not have, so you murder. You covet and cannot obtain, so you fight and quarrel. (James 4:1–2)
-```
+> What causes quarrels and what causes fights among you? Is it not this, that your passions are at war within you? You desire and do not have, so you murder. You covet and cannot obtain, so you fight and quarrel. (James 4:1–2)
 
 Bottom line: when we don’t get what we want, in our way, on our timeline, we get angry. And anger is sure it is right, sure it has the moral high ground, sure it needs to quell dissent. Anger, thus, has no use for listening.
 
