@@ -10,7 +10,7 @@ tags:
   - Communication
   - Relationships
   - Spiritual Growth
-description: "Why we struggle to listen. Hint: Listening is hard because loving is hard."
+description: "Why we struggle to listen, and how we can start making positive changes. Hint: Listening is hard because loving is hard."
 canonicalURL: https://www.desiringgod.org/articles/why-is-listening-so-hard
 ---
 
@@ -30,7 +30,7 @@ I appreciate these skills, and many like them we could name. If you’ve ever be
 
 But I don’t believe a lack of skill is the biggest problem for most of us in our listening. Most people are already instinctively good listeners — when they want to be. Even a highly distractible child can become engrossed in listening to an interesting story. All of us pay attention, slow down, ask good questions, and hang eagerly on the answers when we care deeply about the subject matter or the one who is speaking, be it a close friend or a character in a show.
 
-No, the real difficulty with listening well is, alas, the same real difficulty we face in many other endeavors in our lives: a lack of love. Listening is hard because loving is hard. We struggle to listen well, at least in large part, because our hearts and minds are not fully convinced that others are worth listening to. We struggle to listen because we struggle to love our Lord enough to treasure his beloved ones and the concerns that are on their hearts, concerns their words reveal (Luke 6:45).
+No, the real difficulty with listening well is, alas, the same real difficulty we face in many other endeavors in our lives: **a lack of love**. _Listening is hard because loving is hard_. We struggle to listen well, at least in large part, because our hearts and minds are not fully convinced that others are worth listening to. We struggle to listen because we struggle to love our Lord enough to treasure his beloved ones and the concerns that are on their hearts, concerns their words reveal (Luke 6:45).
 
 ## Two Great Temptations
 
