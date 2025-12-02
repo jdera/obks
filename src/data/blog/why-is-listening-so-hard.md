@@ -34,6 +34,8 @@ No, the real difficulty with listening well is, alas, the same real difficulty w
 
 ## Two Great Temptations
 
+![Coffee cup with latte art on a wooden table](@/assets/images/listens2.jpg)
+
 In the first chapter of James, we get the memorable verse quoted above, calling us to be “quick to hear.” James, in his usual pithy style, then names two great human temptations that prevent us from being quick to listen. We enter one of those many delightful moments where Scripture is completely accessible to a young child while simultaneously guiding an exploration of heart motives that even seasoned counselors never exhaust. What qualities does James oppose to the godly virtue of being eagerly ready to listen? A sinful quickness to speak and to become angry.
 
 ### Quick to Speak
@@ -57,6 +59,8 @@ No wonder James summarizes the entire anger dynamic only a page or so later by s
 Bottom line: when we don’t get what we want, in our way, on our timeline, we get angry. And anger is sure it is right, sure it has the moral high ground, sure it needs to quell dissent. Anger, thus, has no use for listening.
 
 ## Love Listens
+
+![Coffee cup with latte art on a wooden table](@/assets/images/listens.jpg)
 
 Thankfully, our distressingly common tendency to speak and get up in arms quickly hardly catches the Holy Spirit off guard. He knows us. Fellowship with him transforms our hearts day by day to resemble Christ and put the interests of others ahead of our own (Philippians 2:1–11). He teaches us to listen to others that we might know and love them better (Philippians 1:9). Jesus does not cast us out unaided into an arena of dull and threatening interlocutors, coldly commanding us to “talk less, smile more” (per the dubious advice of Aaron Burr in _Hamilton_).
 
