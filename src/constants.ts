@@ -6,6 +6,7 @@ import IconLinkedin from "@/assets/icons/IconLinkedin.svg";
 import IconWhatsapp from "@/assets/icons/IconWhatsapp.svg";
 import IconFacebook from "@/assets/icons/IconFacebook.svg";
 import IconTelegram from "@/assets/icons/IconTelegram.svg";
+import IconTelegram from "@/assets/icons/IconSuno.svg";
 import IconPinterest from "@/assets/icons/IconPinterest.svg";
 import IconRss from "@/assets/icons/IconRss.svg"; // fixed
 import { SITE } from "@/config";
