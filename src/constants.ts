@@ -40,7 +40,7 @@ export const SOCIALS: Social[] = [
   {
     name: "Suno",
     href: "https://suno.com/@obks",
-    linkTitle: `Share this post via SUNO`,
+    linkTitle: `Share this song via SUNO`,
     icon: IconSuno,
   },
   {
