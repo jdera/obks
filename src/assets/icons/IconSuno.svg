@@ -6,7 +6,7 @@
      stroke="none"
      class="icon icon-tabler icons-tabler-outline icon-tabler-suno">
   <title>Suno</title>
-  <!-- Scaled down and centered with padding (~10-15% smaller + even padding) -->
-  <path d="M16.5 2.5C19.8 2.5 22.5 6.477 22.5 11H14c0 4.97-2.522 9-5.625 9C5.27 20 2.75 15.97 2.75 11H11.25c0-4.97 2.522-9 5.625-9Z"
-        transform="translate(0.75 1.5) scale(0.875)"/>
+  <!-- Smaller icon + minimal padding (~1px all around) -->
+  <path d="M16.5 1C20.642 1 24 5.477 24 12h-9c0 6.523-3.306 11-7.5 11C3.306 23 0 18.523 0 12h9c0-6.523 3.306-11 7.5-11Z"
+        transform="translate(0.5 0.5) scale(0.958)"/>
 </svg>
