@@ -10,7 +10,7 @@ tags:
   - Communication
   - Relationships
   - Spiritual Growth
-description: Why we struggle to listen. Hint: Listening is hard because loving is hard.
+description: "Why we struggle to listen. Hint: Listening is hard because loving is hard."
 canonicalURL: https://www.desiringgod.org/articles/why-is-listening-so-hard
 ---
 
