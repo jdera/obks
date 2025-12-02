@@ -1,4 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-tabler icons-tabler-outline icon-tabler-suno">
-  <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
-  <path d="M16.5 2c4.14 0 7.5 4.477 7.5 10h-7c0 5.523-2.686 10-6 10s-6-4.477-6-10h7c0-5.523 2.686-10 6-10Z"/>
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="24"
+     height="24"
+     viewBox="0 0 24 24"
+     fill="currentColor"
+     stroke="none"
+     class="icon icon-tabler icons-tabler-outline icon-tabler-suno">
+  <title>Suno</title>
+  <!-- Scaled down and centered with padding (~10-15% smaller + even padding) -->
+  <path d="M16.5 2.5C19.8 2.5 22.5 6.477 22.5 11H14c0 4.97-2.522 9-5.625 9C5.27 20 2.75 15.97 2.75 11H11.25c0-4.97 2.522-9 5.625-9Z"
+        transform="translate(0.75 1.5) scale(0.875)"/>
 </svg>
