@@ -1,6 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20px" height="20px" viewBox="0 0 20 20" version="1.1">
-<g id="surface1">
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:1;" d="M 13.75 0 C 17.203125 0 20 4.476562 20 10 L 12.5 10 C 12.5 15.523438 9.703125 20 6.25 20 C 2.796875 20 0 15.523438 0 10 L 7.5 10 C 7.5 4.476562 10.296875 0 13.75 0 Z M 13.75 0 "/>
-</g>
-</svg>
+<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Suno</title><path d="M16.5 0C20.642 0 24 5.373 24 12h-9c0 6.627-3.358 12-7.5 12C3.358 24 0 18.627 0 12h9c0-6.627 3.358-12 7.5-12Z"/></svg>
