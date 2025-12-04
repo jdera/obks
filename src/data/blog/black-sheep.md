@@ -4,7 +4,7 @@ pubDatetime: 2018-05-30T00:00:00Z
 modDatetime: 2025-11-20T00:00:00Z
 title: Black sheep are more valuable than you think
 slug: black-sheep-more-valuable
-featured: false
+featured: true
 draft: false
 tags:
   - livestock
