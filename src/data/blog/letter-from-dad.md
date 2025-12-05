@@ -16,9 +16,9 @@ canonicalURL: https://www.openbooks.ink/
 ---
 ![Father](@/assets/images/father.png)
 
-**From:** Richard <richard.\*\*\*\*\*\*@hotmail.com>  
+**From:** Dad  
 **Date:** April 30, 2015 at 12:19 PM EDT  
-**To:** Julian <julian.\*.\*\*\*\*\*\*@gmail.com>  
+**To:** Julian  
 **Subject:** RE: Miss you pops!
 
 _Son -_
@@ -34,9 +34,9 @@ _Dad_
 
 ---
 
-**From:** Julian <julian.\*.\*\*\*\*\*\*@gmail.com>  
+**From:** Julian  
 **Date:** Thu, Apr 29, 2015 at 11:54 AM EDT  
-**To:** Richard <richard.\*\*\*\*\*\*@hotmail.com>  
+**To:** Dad  
 **Subject:** Miss you pops!
 
 _Dad,_
