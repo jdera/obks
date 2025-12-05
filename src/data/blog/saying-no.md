@@ -3,7 +3,7 @@ author: James Clear
 pubDatetime: 2024-01-01T00:00:00Z
 modDatetime: 2025-12-01T00:00:00Z
 title: The Ultimate Productivity Hack is Saying No
-slug: the-ultimate-productivity-hack-is-saying-no
+slug: saying-no
 featured: false
 draft: true
 tags:
@@ -12,7 +12,7 @@ tags:
   - Decision Making
   - Personal Growth
 description: "Not doing something will always be faster than doing it. Learn why saying no is the most powerful productivity strategy and how to upgrade your no's over time."
-canonicalURL: https://www.openbooks.ink/posts/the-ultimate-productivity-hack-is-saying-no
+canonicalURL: https://www.openbooks.ink/posts/saying-no
 ---
 
 > The ultimate productivity hack is saying no.
@@ -107,3 +107,4 @@ I am reminded of the famous Peter Drucker quote, _"There is nothing so useless a
 
 
 **Source:** <a href="https://jamesclear.com/saying-no" target="_blank">James Clear</a>
+
