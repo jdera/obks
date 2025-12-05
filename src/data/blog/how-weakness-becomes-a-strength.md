@@ -55,3 +55,4 @@ Some of the best leaders I know can talk about a time when God weakened them. Wh
 
 **Source:** <a href="https://chucklawless.com/2025/07/weak-leaders/" target="_blank">ChuckLawless.com</a>
 
+
