@@ -3,7 +3,7 @@ author: Chuck Lawless
 pubDatetime: 2025-07-14T00:00:00Z
 modDatetime: 2025-12-05T00:00:00Z
 title: How weakness becomes a strength
-slug: how-weakness-becomes-a-strength
+slug: weakness-to-strength
 featured: false
 draft: false
 tags:
@@ -11,7 +11,7 @@ tags:
   - Spiritual Growth
   - Humility
 description: "Seven ways that God weakens us or keeps us weak for His glory."
-canonicalURL: https://www.openbooks.ink/posts/how-weakness-becomes-a-strength
+canonicalURL: https://www.openbooks.ink/posts/weakness-to-strength
 ---
 
 ![A person's hands](@/assets/images/prayer_hands.png)
@@ -54,5 +54,6 @@ Some of the best leaders I know can talk about a time when God weakened them. Wh
 
 
 **Source:** <a href="https://chucklawless.com/2025/07/weak-leaders/" target="_blank">ChuckLawless.com</a>
+
 
 
