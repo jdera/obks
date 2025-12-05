@@ -11,7 +11,7 @@ tags:
   - Relationships
   - Spiritual Growth
 description: "Why we struggle to listen, and how we can start making positive changes to hear those around us. (Hint: Listening is hard because loving is hard.)"
-canonicalURL: https://www.desiringgod.org/articles/why-is-listening-so-hard
+canonicalURL: https://www.openbooks.ink/posts/why-is-listening-so-hard
 ---
 
 ![Coffee cup with latte art on a wooden table](@/assets/images/coffee-latte.jpg)
