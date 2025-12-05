@@ -11,7 +11,7 @@ tags:
   - sheep
   - encouragement
 description: The story of black sheep, their wool demand, and the value they bring to farmers and families.
-canonicalURL: https://www.farmprogress.com/livestock/black-sheep-are-more-valuable-you-think
+canonicalURL: https://www.openbooks.ink/posts/black-sheep-more-valuable
 ---
 
 ![black sheep](@/assets/images/sheep.png)
