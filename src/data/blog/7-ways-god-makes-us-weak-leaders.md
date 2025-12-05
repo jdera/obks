@@ -1,7 +1,7 @@
 ---
 author: Chuck Lawless
 pubDatetime: 2025-07-14T00:00:00Z
-modDatetime: 2025-12-15T00:00:00Z
+modDatetime: 2025-12-04T00:00:00Z
 title: 7 ways God makes us weak leaders
 slug: 7-ways-god-makes-us-weak-leaders
 featured: false
@@ -51,5 +51,6 @@ Moses faced it at times. Joshua encountered it. The prophets recurrently dealt w
 He calls us to make disciples, but we can't change hearts. We can't open blinded eyes of non-believers (2 Cor 4:3-4). We can't free people from the devil's trap (2 Tim 2:26). We're God's vessels, but only He does what He calls us to do. We need Him.
 
 Some of the best leaders I know can talk about a time when God weakened them. What about you?
+
 
 **Source:** <a href="https://chucklawless.com/2025/07/weak-leaders/" target="_blank">ChuckLawless.com</a>
