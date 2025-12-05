@@ -11,7 +11,7 @@ tags:
   - encouragement
   - parable
 description: A powerful illustration of how mother eagles prepare their young to fly, relating it to how our faith is strengthened through trials and difficulties.
-canonicalURL: https://www.soaringwithhim.com/
+canonicalURL: https://www.openbooks.ink/posts/god-stirs-up-the-nest-to-teach-us-to-soar
 ---
 
 ![eaglecam](@/assets/images/eagle.png)
