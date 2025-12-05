@@ -12,7 +12,7 @@ tags:
   - life-lessons
   - success
 description: An email exchange between a father and son reflecting on the true meaning of success, legacy, and the importance of being present.
-canonicalURL: https://www.openbooks.ink/
+canonicalURL: https://www.openbooks.ink/posts/letter-from-dad
 ---
 ![Father](@/assets/images/father.png)
 
