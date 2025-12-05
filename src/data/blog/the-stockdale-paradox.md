@@ -10,8 +10,8 @@ tags:
   - Critical Thinking
   - Overcoming Limitations
   - Self-Mastery
-description: Lessons-learned about personal development from a source that isn’t about personal development.
-canonicalURL: http://ndoherty.com/stockdale-paradox/
+description: Lessons learned about personal development from a source that isn’t about personal development.
+canonicalURL: https://www.openbooks.ink/posts/the-stockdale-paradox
 ---
 
 ![Stockdale 1](@/assets/images/stockdale.png)
