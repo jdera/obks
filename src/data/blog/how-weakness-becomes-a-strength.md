@@ -3,20 +3,20 @@ author: Chuck Lawless
 pubDatetime: 2025-07-14T00:00:00Z
 modDatetime: 2025-12-04T00:00:00Z
 title: 7 ways God makes us weak leaders
-slug: 7-ways-god-makes-us-weak-leaders
+slug: how-weakness-becomes-a-strength
 featured: false
 draft: false
 tags:
   - Leadership
   - Spiritual Growth
   - Humility
-description: "God uses nobodies for Jesus. Here are seven ways that God weakens us or keeps us weak for His glory."
+description: "Seven ways that God weakens us or keeps us weak for His glory."
 canonicalURL: https://chucklawless.com/2025/07/weak-leaders/
 ---
 
 ![A person's hands](@/assets/images/prayer_hands.png)
 
-God uses nobodies for Jesusm, but even I forget that truth. All of us so lean toward pride and ego that it's hard for us to remember that the feeble, the humble, the weak—nobodies—fit perfectly into God's plan. Here are some ways that God weakens us or keeps us weak for His glory.
+God uses nobodies for Jesus, but even I forget that truth. All of us so lean toward pride and ego that it's hard for us to remember that the feeble, the humble, the weak—nobodies—fit perfectly into God's plan. Here are some ways that God weakens us or keeps us weak for His glory.
 
 ## Seven Ways God Weakens Us
 
@@ -54,4 +54,5 @@ Some of the best leaders I know can talk about a time when God weakened them. Wh
 
 
 **Source:** <a href="https://chucklawless.com/2025/07/weak-leaders/" target="_blank">ChuckLawless.com</a>
+
 
