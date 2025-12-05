@@ -12,7 +12,7 @@ tags:
   - Decision Making
   - Personal Growth
 description: "Not doing something will always be faster than doing it. Learn why saying no is the most powerful productivity strategy and how to upgrade your no's over time."
-canonicalURL: https://jamesclear.com/saying-no
+canonicalURL: https://www.openbooks.ink/posts/the-ultimate-productivity-hack-is-saying-no
 ---
 
 > The ultimate productivity hack is saying no.
@@ -104,5 +104,6 @@ What is true about health is also true about productivity: an ounce of preventio
 More effort is wasted doing things that don't matter than is wasted doing things inefficiently. And if that is the case, elimination is a more useful skill than optimization.
 
 I am reminded of the famous Peter Drucker quote, _"There is nothing so useless as doing efficiently that which should not be done at all."_
+
 
 **Source:** <a href="https://jamesclear.com/saying-no" target="_blank">James Clear</a>
