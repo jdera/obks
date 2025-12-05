@@ -5,7 +5,7 @@ modDatetime: 2025-12-04T00:00:00Z
 title: 7 ways God makes us weak leaders
 slug: 7-ways-god-makes-us-weak-leaders
 featured: false
-draft: true
+draft: false
 tags:
   - Leadership
   - Spiritual Growth
@@ -54,3 +54,4 @@ Some of the best leaders I know can talk about a time when God weakened them. Wh
 
 
 **Source:** <a href="https://chucklawless.com/2025/07/weak-leaders/" target="_blank">ChuckLawless.com</a>
+
