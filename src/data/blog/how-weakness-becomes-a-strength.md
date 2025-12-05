@@ -1,8 +1,8 @@
 ---
 author: Chuck Lawless
 pubDatetime: 2025-07-14T00:00:00Z
-modDatetime: 2025-12-04T00:00:00Z
-title: 7 ways God makes us weak leaders
+modDatetime: 2025-12-05T00:00:00Z
+title: How weakness becomes a strength
 slug: how-weakness-becomes-a-strength
 featured: false
 draft: false
@@ -54,5 +54,3 @@ Some of the best leaders I know can talk about a time when God weakened them. Wh
 
 
 **Source:** <a href="https://chucklawless.com/2025/07/weak-leaders/" target="_blank">ChuckLawless.com</a>
-
-
