@@ -11,7 +11,7 @@ tags:
   - scenery
   - provoking
 description: A gallery of "real-life" places and things to explore.
-canonicalURL: https://www.openbooks.ink/
+canonicalURL: https://www.openbooks.ink/posts/amazing-scenery-part2
 ---
 
 ![Image 35](@/assets/images/scenery/aehkjace7wcpqsacde4l.png)
@@ -59,3 +59,4 @@ canonicalURL: https://www.openbooks.ink/
 ![Image 77](@/assets/images/scenery/ypqa9q7qfacgvz01g4gn.png)
 
 **Source:** Weird World
+
