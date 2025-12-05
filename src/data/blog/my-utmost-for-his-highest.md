@@ -15,7 +15,7 @@ tags:
   - Trust
   - Witness
 description: "Select articles from Oswald Chambers' classic devotional book."
-canonicalURL: https://utmost.org/
+canonicalURL: https://www.openbooks.ink/posts/my-utmost-for-his-highest
 ---
 
 ![Forrest with haze](@/assets/images/forrest.png)
@@ -91,5 +91,6 @@ If you have only come as far as asking God for things, you have never come to th
 Are you seeking great things for yourself? Have you said, "Oh, Lord, completely fill me with your Holy Spirit"? If God does not, it is because you are not totally surrendered to Him; there is something you still refuse to do. Are you prepared to ask yourself what it is you want from God and why you want it? God always ignores your present level of completeness in favor of your ultimate future completeness. He is not concerned about making you blessed and happy right now, but He's continually working out His ultimate perfection for you
 
 > "…that they may be one just as We are one…" —John 17:22
+
 
 **Source:** <a href="https://utmost.org/" target="_blank">My Utmost For His Highest</a>
