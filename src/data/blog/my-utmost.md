@@ -3,7 +3,7 @@ author: Oswald Chambers
 pubDatetime: 2024-03-12T00:00:00Z
 modDatetime: 2025-02-14T00:00:00Z
 title: My Utmost For His Highest
-slug: my-utmost-for-his-highest
+slug: my-utmost
 featured: false
 draft: true
 tags:
@@ -15,7 +15,7 @@ tags:
   - Trust
   - Witness
 description: "Select articles from Oswald Chambers' classic devotional book."
-canonicalURL: https://www.openbooks.ink/posts/my-utmost-for-his-highest
+canonicalURL: https://www.openbooks.ink/posts/my-utmost
 ---
 
 ![Forrest with haze](@/assets/images/forrest.png)
@@ -94,3 +94,4 @@ Are you seeking great things for yourself? Have you said, "Oh, Lord, completely 
 
 
 **Source:** <a href="https://utmost.org/" target="_blank">My Utmost For His Highest</a>
+
