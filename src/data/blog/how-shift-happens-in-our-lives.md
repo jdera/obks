@@ -11,7 +11,7 @@ tags:
   - Habits
   - Life Change
 description: "Making a shift in our lives is absolutely possible. Here's how that shift might happen, the phases of change, and the key skills needed to create lasting transformation."
-canonicalURL: https://zenhabits.net/shift-happens/
+canonicalURL: https://www.openbooks.ink/posts/how-shift-happens-in-our-lives
 ---
 
 ![Shifter knob](@/assets/images/shifter.jpg)
@@ -103,5 +103,6 @@ Similarly to the above, really — just get started. Find the next small step an
 These skills obviously overlap, and you can practice them over and over again as you make a change. In this way, every time you get sidetracked, demotivated, or struggle, it's a great opportunity to practice the change.
 
 ![Car finishing the race](@/assets/images/finish.png)
+
 
 **Source:** <a href="https://zenhabits.net/shift-happens/" target="_blank">Zen Habits</a>
