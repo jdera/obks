@@ -12,7 +12,7 @@ tags:
   - faith
   - love
 description: A heartfelt email from a mother to her son expressing love, pride, concern about the world, cherished memories, and hopes for the future.
-canonicalURL: https://www.openbooks.ink/
+canonicalURL: https://www.openbooks.ink/posts/letter-from-mom
 ---
 
 ![Mother and Son](@/assets/images/mother-son.png)
@@ -38,5 +38,6 @@ _If you are up for a bible study on Sunday, I would really like this. Please let
 
 _Love Mom,_  
 _xxoo_
+
 
 > **Image source** ©<a href="https://pixabay.com" target="_blank">Pixabay</a>
