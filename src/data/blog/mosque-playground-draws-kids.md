@@ -11,7 +11,7 @@ tags:
   - Education
   - Community
 description: An imam in Kocaeli (Turkey) transforms his mosque's courtyard with a playground to attract children to summer Quran classes.
-canonicalURL: https://www.dailysabah.com/turkey/2019/07/18/play-and-pray-mosques-playground-draws-kids
+canonicalURL: https://www.openbooks.ink/posts/mosque-playground-draws-kids
 ---
 
 **_"He who has ears to hear..."_**
