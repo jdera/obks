@@ -3,7 +3,7 @@ author: Alasdair Groves
 pubDatetime: 2021-05-24T00:00:00Z
 modDatetime: 2025-12-02T00:00:00Z
 title: Why is listening so hard?
-slug: why-is-listening-so-hard
+slug: on-listening
 featured: false
 draft: false
 tags:
@@ -11,7 +11,7 @@ tags:
   - Relationships
   - Spiritual Growth
 description: "Why we struggle to listen, and how we can start making positive changes to hear those around us. (Hint: Listening is hard because loving is hard.)"
-canonicalURL: https://www.openbooks.ink/posts/why-is-listening-so-hard
+canonicalURL: https://www.openbooks.ink/posts/on-listening
 ---
 
 ![Coffee cup with latte art on a wooden table](@/assets/images/coffee-latte.jpg)
