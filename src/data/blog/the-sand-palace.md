@@ -12,7 +12,7 @@ tags:
   - foundation
   - resilience
 description: The story of a vacation home designed and built to withstand 250 mph winds, allowing it to survive one of the most catastrophic hurricanes in U.S. history.
-canonicalURL: https://www.cnn.com/2018/10/15/us/mexico-beach-house-hurricane-trnd/index.html
+canonicalURL: https://www.openbooks.ink/posts/the-sand-palace
 ---
 
 > Everyone who hears these words of mine and does them is like a wise man who built his house on rock.
