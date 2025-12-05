@@ -11,7 +11,7 @@ tags:
   - Spiritual Growth
   - Humility
 description: "Seven ways that God weakens us or keeps us weak for His glory."
-canonicalURL: https://chucklawless.com/2025/07/weak-leaders/
+canonicalURL: https://www.openbooks.ink/posts/how-weakness-becomes-a-strength
 ---
 
 ![A person's hands](@/assets/images/prayer_hands.png)
@@ -54,3 +54,4 @@ Some of the best leaders I know can talk about a time when God weakened them. Wh
 
 
 **Source:** <a href="https://chucklawless.com/2025/07/weak-leaders/" target="_blank">ChuckLawless.com</a>
+
