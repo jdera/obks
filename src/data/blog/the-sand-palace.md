@@ -3,7 +3,7 @@ author: Eric Levenson, Patricia Mazzei
 pubDatetime: 2018-10-14T00:00:00Z
 modDatetime: 2025-11-07T10:10:00Z
 title: This 'Sand Palace' survived Hurricane Michael
-slug: mexico-beach-sand-palace-hurricane-michael-survivor
+slug: the-sand-palace
 featured: true
 draft: false
 tags:
