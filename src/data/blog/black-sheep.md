@@ -11,7 +11,7 @@ tags:
   - sheep
   - encouragement
 description: The story of black sheep, their wool demand, and the value they bring to farmers and families.
-canonicalURL: https://www.openbooks.ink/posts/black-sheep-more-valuable
+canonicalURL: https://www.openbooks.ink/posts/black-sheep
 ---
 
 ![black sheep](@/assets/images/sheep.png)
