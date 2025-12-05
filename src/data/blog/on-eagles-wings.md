@@ -2,8 +2,8 @@
 author: Patricia Holbrook
 pubDatetime: 2017-03-06T00:00:00Z
 modDatetime: 2025-11-15T00:00:00Z
-title: God, teach us to soar... again
-slug: god-stirs-up-the-nest
+title: How eagles teach their young to soar
+slug: on-eagles-wings
 featured: false
 draft: false
 tags:
@@ -11,7 +11,7 @@ tags:
   - encouragement
   - parable
 description: A powerful illustration of how mother eagles prepare their young to fly, relating it to how our faith is strengthened through trials and difficulties.
-canonicalURL: https://www.openbooks.ink/posts/god-stirs-up-the-nest
+canonicalURL: https://www.openbooks.ink/posts/on-eagles-wings
 ---
 
 ![eaglecam](@/assets/images/eagle.png)
