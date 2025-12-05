@@ -3,7 +3,7 @@ author: Eric Levenson, Patricia Mazzei
 pubDatetime: 2018-10-14T00:00:00Z
 modDatetime: 2025-11-07T10:10:00Z
 title: This 'Sand Palace' survived Hurricane Michael
-slug: the-sand-palace
+slug: mexico-beach-sand-palace-hurricane-michael-survivor
 featured: true
 draft: false
 tags:
@@ -12,7 +12,7 @@ tags:
   - foundation
   - resilience
 description: The story of a vacation home designed and built to withstand 250 mph winds, allowing it to survive one of the most catastrophic hurricanes in U.S. history.
-canonicalURL: https://www.openbooks.ink/posts/the-sand-palace
+canonicalURL: https://www.openbooks.ink/posts/mexico-beach-sand-palace-hurricane-michael-survivor
 ---
 
 > Everyone who hears these words of mine and does them is like a wise man who built his house on rock.
