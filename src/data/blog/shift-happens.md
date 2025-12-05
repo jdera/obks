@@ -3,7 +3,7 @@ author: Leo Babauta
 pubDatetime: 2024-01-01T00:00:00Z
 modDatetime: 2025-01-04T00:00:00Z
 title: How shift happens in our lives
-slug: how-shift-happens-in-our-lives
+slug: shift-happens
 featured: false
 draft: true
 tags:
@@ -11,7 +11,7 @@ tags:
   - Habits
   - Life Change
 description: "Making a shift in our lives is absolutely possible. Here's how that shift might happen, the phases of change, and the key skills needed to create lasting transformation."
-canonicalURL: https://www.openbooks.ink/posts/how-shift-happens-in-our-lives
+canonicalURL: https://www.openbooks.ink/posts/shift-happens
 ---
 
 ![Shifter knob](@/assets/images/shifter.jpg)
@@ -106,3 +106,4 @@ These skills obviously overlap, and you can practice them over and over again as
 
 
 **Source:** <a href="https://zenhabits.net/shift-happens/" target="_blank">Zen Habits</a>
+
