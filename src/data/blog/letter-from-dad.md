@@ -18,7 +18,7 @@ canonicalURL: https://www.openbooks.ink/posts/letter-from-dad
 
 **From:** Dad  
 **Date:** April 30, 2015 at 12:19 PM EDT  
-**To:** Julian  
+**To:** Jason  
 **Subject:** RE: Miss you pops!
 
 _Son -_
@@ -34,7 +34,7 @@ _Dad_
 
 ---
 
-**From:** Julian  
+**From:** Jason  
 **Date:** Thu, Apr 29, 2015 at 11:54 AM EDT  
 **To:** Dad  
 **Subject:** Miss you pops!
@@ -48,6 +48,6 @@ _300+ people showed up to the funeral, and all the speakers said the same things
 _I really think that when I'm finished with school, and possess a solid tenure with the military and good standing with my employer, I will make my way closer to home in Texas. I love you and hope to talk to you soon!_
 
 _Love -_  
-_Julian_
+_Jason_
 
 > **Image source** ©<a href="https://pixabay.com/photos/father-son-sunset-lake-713690" target="_blank">Pixabay</a>
