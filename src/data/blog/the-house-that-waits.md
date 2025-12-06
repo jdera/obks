@@ -100,7 +100,7 @@ The One who makes the heavens and the earth, the forests and trees, the wood tha
 
 You see, we too are like the house. Some of us choose to remain steadfast in faith, not aimlessly being led by civilization when its battered and storm-tossed waves seek to erode our foundations. When our resolve is being tested over and over, and over again, without ceasing.
 
-When everything in life seems to go opposite our course, dictating direction without vision... enabling decision without responsibility, we can choose to rest in a firm foundation that remains the same yesterday, today, and forever (Hebrews 13:8). A house that retains its light, a city on the hill, a lamp in the darkest of nights.
+When everything in life seems to go opposite our course... dictating direction without vision and decision without responsibility... we can choose to rest in a firm foundation that remains the same yesterday, today, and forever (Hebrews 13:8). A house that retains its light, a city on the hill, a lamp in the darkest of nights.
 
 One that says... with a stern, but calm, voice, inviting us to exist and to trust:
 
