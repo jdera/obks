@@ -102,4 +102,4 @@ One that says... with a stern, but calm, voice, inviting us to exist and to trus
 
 **Image Source(s):**   
 Maya: <a href="https://www.tiktok.com/@magicflowerdesigns" target="_blank">@magicflowerdesigns</a>  
-Caroline: <a href="https://carolinemerinoart.wordpress.com/" target="_blank">Caroline Merino Art</a>
+Caroline: <a href="https://carolinemerinoart.wordpress.com/tag/caroline-merino-art/" target="_blank">Caroline Merino Art</a>
