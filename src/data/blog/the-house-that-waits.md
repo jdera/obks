@@ -29,15 +29,13 @@ After reading more about her life, I started to notice something set apart about
 
 For many years, I've bought and sold various pieces of art at different times and seasons of my life. Some pieces I've spent upwards of a few thousand dollars on, while other things I've picked up at yard sales or occasional items left at the dumpster.
 
-![Caroline Merino art](@/assets/images/merino_art.jpg)
-
 I even recall one talented artist, <a href="https://www.instagram.com/ephesians2_8/" target="_blank">Caroline Merino</a>, in my travels, who had a unique style and gifting despite her young age. When I went to purchase her portrait of a "Buffalo", it turned out that another bidder had already secured it ahead of me the same day (yes, it was that good). Seeing that a potential bidding war was about to ensue, I reached out to the artist directly and asked if she could paint another one just like it.
+
+![Caroline Merino - "Buffalo"](@/assets/images/merino_buffalo.png)
 
 Overwhelmed by the exchange, she offered to create a similar piece for me in her own style, but for a totally different animal (now my nephew has the only commissioned "Deer" portrait of hers). A local newspaper caught wind of the story and agreed to interview us, given the highly unusual circumstances that ensued.
 
 It turned out that Caroline's story of how she got to the level of expertise she had at such an early age stemmed from her father's overseas service in the military. Each new school she enrolled in, sometimes in different countries, she would gain a new skill or perspective from her art teacher. The exposure to these varying styles helped her advance much further along in her craft and experiences that may have taken even seasoned artists decades, if not a lifetime, to achieve.
-
-![Caroline Merino - "Buffalo"](@/assets/images/merino_buffalo.png)
 
 ---
 
