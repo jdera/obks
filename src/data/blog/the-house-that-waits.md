@@ -90,7 +90,7 @@ So, why even own a home, anyway? Why have your own piece of land, something to c
 
 You see, this house to me... in my perspective, is the Gospel.
 
-!["Noah's Ark" by Simon de Myle](@/assets/images/Noah's_Ark_on_Mount_Ararat_by_Simon_de_Myle.jpg)
+!["Noah's Ark" by Simon de Myle](@/assets/images/Noahs_Ark_on_Mount_Ararat_by_Simon_de_Myle.jpg)
 
 When civilization and humanity lose their path... going its own way... it often leaves behind its faith and heritage. If we forsake the simplicity of community, the sacraments, the Divine connection both personally and corporately with our Creator... we leave future generations to ask the important questions without a roadmap to point the way.
 
