@@ -5,7 +5,7 @@ pubDatetime: 2025-12-03T00:00:00Z
 modDatetime: 2025-12-07T00:00:00Z
 slug: the-house-that-waits
 featured: true
-draft: true
+draft: false
 tags:
   - art
   - reflection
