@@ -76,8 +76,6 @@ I agreed to meet Maya's father at the coffee shop to secure my painting, given t
 
 Talking with her dad, commenting about how talented his daughter was, I can tell he was proud. He told me more about this particular art piece, how they remember taking a family road trip together, and that she saw this house, but it wasn't quite how the painting looked... it was how she viewed it.
 
-![Maya - "Sketch of a girl"](@/assets/images/girl_sketch.jpg)
-
 Sometimes we pass through life thinking we see things the way they are... how they ought to be... and not what they could be. We don't often look through other lenses of life and experience that differ from our own.
 
 Even just understanding through a father's eyes what his daughter was envisioning in her eyes, and seeing it come to life as we traded hands... It just goes to show that when you want to change things... to truly make a difference... it starts with changing hearts. It begins by looking at the simple, not the complicated or the deep, and examining what's true, and meaningful... and honest.  
